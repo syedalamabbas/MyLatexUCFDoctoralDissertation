@@ -1,0 +1,3035 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.6)  20 JUL 2017 11:52
+entering extended mode
+**./DissertationDraft.tex
+(DissertationDraft.tex
+LaTeX2e <2016/03/31> patch level 2
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(UCF_ETD.cls
+Document Class: UCF_ETD 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen102
+\Hy@linkcounter=\count80
+\Hy@pagecounter=\count81
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count82
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4362.
+Package hyperref Info: Option `raiselinks' set `true' on input line 4362.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4362
+.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count83
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen103
+\Fld@menulength=\count84
+\Field@Width=\dimen104
+\Fld@charsize=\dimen105
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+
+
+Package hyperref Warning: Option `pdfpagelabels' is turned off
+(hyperref)                because \thepage is undefined.
+
+\c@Item=\count85
+\c@Hfootnote=\count86
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count87
+\c@bookmark@seq@number=\count88
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip41
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count89
+\c@chapter=\count90
+\c@section=\count91
+\c@subsection=\count92
+\c@subsubsection=\count93
+\c@paragraph=\count94
+\c@subparagraph=\count95
+\c@figure=\count96
+\c@table=\count97
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\tocchpnumwdth=\skip44
+\bibindent=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/06/02 v1.0s Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2016/06/17 v0.06h Graphics/color for pdfTeX
+\Gread@gobject=\count98
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen109
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip11
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks16
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks17
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\mdwtools\footnote.sty"
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box28
+\fn@width=\dimen118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\epigraph\epigraph.sty"
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip48
+\afterepigraphskip=\skip49
+\epigraphwidth=\skip50
+\epigraphrule=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count111
+\float@exts=\toks20
+\float@box=\box29
+\@float@everytoks=\toks21
+\@floatcapt=\box30
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@tempdima=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
+)
+\c@ContinuedFloat=\count112
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+\c@KVtest=\count113
+\sf@farskip=\skip52
+\sf@captopadj=\dimen126
+\sf@capskip=\skip53
+\sf@nearskip=\skip54
+\c@subfigure=\count114
+\c@subfigure@save=\count115
+\c@lofdepth=\count116
+\c@subtable=\count117
+\c@subtable@save=\count118
+\c@lotdepth=\count119
+\sf@top=\skip55
+\sf@bottom=\skip56
+)
+(DissertationDraft.aux)
+\openout1 = `DissertationDraft.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 69.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\AtBeginShipoutBox=\box31
+Package hyperref Info: Link coloring OFF on input line 69.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count120
+)
+LaTeX Info: Redefining \ref on input line 69.
+LaTeX Info: Redefining \pageref on input line 69.
+LaTeX Info: Redefining \nameref on input line 69.
+
+(DissertationDraft.out) (DissertationDraft.out)
+\@outlinefile=\write3
+\openout3 = `DissertationDraft.out'.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen127
+\scratchbox=\box32
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen128
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks23
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 74.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 74.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2
+
+
+
+{C:/Users/Alam Abbas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 77.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 77.
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81 
+      [2] [3]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
+ [4
+
+] [5] [6] [7
+
+] [8] [9] (DissertationDraft.toc [10
+
+] [11]
+Overfull \hbox (6.37076pt too wide) in paragraph at lines 35--35
+ []   [][]\OT1/ptm/m/n/12 NONUNIFORM PO-LAR AND SPHER-I-CAL DIS-CRETE FOURIER T
+RANS- 
+ []
+
+[12] [13] [14])
+\tf@toc=\write4
+\openout4 = `DissertationDraft.toc'.
+
+ [15] (DissertationDraft.lof [16
+
+]
+Overfull \hbox (0.38336pt too wide) in paragraph at lines 16--16
+ [][] [][]\OT1/ptm/m/n/12 Convergence of fre-quency es-ti-ma-tion $\OML/cmm/m/i
+t/12 \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 T[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 =\
+OT1/cmr/m/n/12 (2\OML/cmm/m/it/12 \OT1/cmr/m/n/12 )$ \OT1/ptm/m/n/12 in the di
+s-crete ANF method 
+ []
+
+[17] [18]
+Overfull \hbox (9.3057pt too wide) in paragraph at lines 25--25
+ \OML/cmm/m/it/12 =\OT1/cmr/m/n/12 (2\OML/cmm/m/it/12 \OT1/cmr/m/n/12 )$\OT1/
+ptm/m/n/12 Hz in the al-go-rithm [] with $\OML/cmm/m/it/12 m \OT1/cmr/m/n/12 = 
+4$ \OT1/ptm/m/n/12 and the true fre-quency $\OML/cmm/m/it/12 []=\OT1/cmr/m/n/1
+2 (2\OML/cmm/m/it/12 \OT1/cmr/m/n/12 )$\OT1/ptm/m/n/12 Hz 
+ []
+
+[19] [20]
+Overfull \hbox (10.79976pt too wide) in paragraph at lines 34--34
+ \OT1/ptm/m/n/12 tion via dis-crete ANF method with het-ero-dyn-ing, where we u
+se $\OT1/cmr/m/n/12 270\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 330\OML/cmm/m/it/12 ;
+ \OT1/cmr/m/n/12 450$\OT1/ptm/m/n/12 Hz 
+ []
+
+[21] [22] [23]
+Overfull \hbox (3.55067pt too wide) in paragraph at lines 44--44
+ [][] [][]\OT1/ptm/m/n/12 (Top row) Cor-ner com-pen-sated and padded re-con-str
+uc-tion, where $\OML/cmm/m/it/12 M \OT1/cmr/m/n/12 = 2(\OML/cmm/m/it/12 N \OT1/
+cmr/m/n/12 + 
+ []
+
+[24] [25] [26]
+Overfull \hbox (1.94875pt too wide) in paragraph at lines 56--56
+ \OT1/ptm/m/n/12 par-i-son with ac-tual ro-ta-tion ma-trix in [] given by Eu-le
+r an-gles, $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ; ; \OT1/cmr/m/n/12 ) = 
+ []
+
+
+Overfull \hbox (2.83452pt too wide) in paragraph at lines 58--58
+ \OT1/ptm/m/n/12 lar res-o-lu-tion. The es-ti-mated pa-ram-e-ters at $\OML/cmm/
+m/it/12 n \OT1/cmr/m/n/12 = 2$ \OT1/ptm/m/n/12 are $\OT1/cmr/m/n/12 (2\OML/cmm/
+m/it/12 :\OT1/cmr/m/n/12 4024\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 1\OML/cmm/m/it/
+12 :\OT1/cmr/m/n/12 1972\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\
+OT1/cmr/m/n/12 7632)$ 
+ []
+
+[27]
+Overfull \hbox (80.49973pt too wide) in paragraph at lines 61--61
+ [][] [][]\OT1/ptm/m/n/12 All the anoma-lies of the PSB test with the ob-ject I
+Ds in $\OMS/cmsy/m/n/12 f\OT1/cmr/m/n/12 72\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 2
+30\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 404\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 410\
+OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 414\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 596\OML
+/cmm/m/it/12 ; \OT1/cmr/m/n/12 642\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 725\OMS/cm
+sy/m/n/12 g$\OT1/ptm/m/n/12 . 
+ []
+
+[28]
+Overfull \hbox (3.1251pt too wide) in paragraph at lines 64--64
+ [][] [][]\OT1/ptm/m/n/12 Rotation es-ti-ma-tion us-ing the pro-posed method at
+ var-i-ous spec-tral radii, which 
+ []
+
+
+Overfull \hbox (46.52838pt too wide) in paragraph at lines 64--64
+ \OT1/ptm/m/n/12 data. The ac-tual so-lu-tion $\OML/cmm/m/it/12 ; $ \OT1/ptm/
+m/n/12 and $\OML/cmm/m/it/12 $ \OT1/ptm/m/n/12 as dis-cussed in [] is = $\OT1/
+cmr/m/n/12 (2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2777\OML/cmm/m/it/12 ; \OT1/cmr/
+m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 8850\OML/cmm/m/it/12 ; \OT1/cmr/m/n/1
+2 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5080)$\OT1/ptm/m/n/12 , 
+ []
+
+[29] [30]
+Overfull \hbox (8.24426pt too wide) in paragraph at lines 72--72
+ \OT1/ptm/m/n/12 tial data, so-lu-tion. The ac-tual ro-ta-tion Eu-ler an-gles a
+re $\OT1/cmr/m/n/12 (1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2794\OML/cmm/m/it/12 ; 
+\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 1718\OML/cmm/m/it/12 ; \OT1/
+cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 7226)$ 
+ []
+
+[31]
+Overfull \hbox (2.68039pt too wide) in paragraph at lines 81--81
+ [][] [][]\OT1/ptm/m/n/12 Full vol-u-met-ric data anal-y-sis us-ing the pro-pos
+ed FVR method on \OT1/ptm/m/it/12 skull \OT1/ptm/m/n/12 dataset, 
+ []
+
+
+Overfull \hbox (1.62483pt too wide) in paragraph at lines 82--82
+ [][] [][]\OT1/ptm/m/n/12 Full vol-u-met-ric data anal-y-sis us-ing the pro-pos
+ed FVR method on \OT1/ptm/m/it/12 Foot \OT1/ptm/m/n/12 dataset, 
+ []
+
+)
+\tf@lof=\write5
+\openout5 = `DissertationDraft.lof'.
+
+ [32] [33] (DissertationDraft.lot)
+\tf@lot=\write6
+\openout6 = `DissertationDraft.lot'.
+
+ [34
+
+]
+CHAPTER 1:
+[1
+
+
+] [2] [3] [4] [5] [6] [7]
+CHAPTER 2:
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+[8
+
+]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 224.
+ [9] [10] [11] [12] [13]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [14] [15] [16] [17] [18]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+ [19]
+<BLMS_Figures/BlockDiagram.pdf, id=1305, 798.65247pt x 455.0313pt>
+File: BLMS_Figures/BlockDiagram.pdf Graphic file (type pdf)
+
+<use BLMS_Figures/BlockDiagram.pdf>
+Package pdftex.def Info: BLMS_Figures/BlockDiagram.pdf used on input line 407.
+(pdftex.def)             Requested size: 479.19519pt x 273.02087pt.
+
+Overfull \hbox (9.4402pt too wide) in paragraph at lines 407--408
+ [] 
+ []
+
+[20] [21 <./BLMS_Figures/BlockDiagram.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 417--423
+
+ []
+
+[22] [23] [24] [25] [26]
+<BLMS_Figures/StaticTestResult.jpg, id=1386, 386.19281pt x 301.8778pt>
+File: BLMS_Figures/StaticTestResult.jpg Graphic file (type jpg)
+
+<use BLMS_Figures/StaticTestResult.jpg>
+Package pdftex.def Info: BLMS_Figures/StaticTestResult.jpg used on input line 5
+01.
+(pdftex.def)             Requested size: 258.74782pt x 202.25706pt.
+ [27] [28 <./BLMS_Figures/StaticTestResult.jpg>] [29]
+<BLMS_Figures/DynamicResAmpStep.jpg, id=1411, 374.14781pt x 296.60812pt>
+File: BLMS_Figures/DynamicResAmpStep.jpg Graphic file (type jpg)
+
+<use BLMS_Figures/DynamicResAmpStep.jpg>
+Package pdftex.def Info: BLMS_Figures/DynamicResAmpStep.jpg used on input line 
+553.
+(pdftex.def)             Requested size: 276.87074pt x 219.49109pt.
+ [30]
+<BLMS_Figures/DynamicResPhaseStep.jpg, id=1416, 372.64218pt x 296.60812pt>
+File: BLMS_Figures/DynamicResPhaseStep.jpg Graphic file (type jpg)
+
+<use BLMS_Figures/DynamicResPhaseStep.jpg>
+Package pdftex.def Info: BLMS_Figures/DynamicResPhaseStep.jpg used on input lin
+e 561.
+(pdftex.def)             Requested size: 275.75658pt x 219.49109pt.
+
+<BLMS_Figures/DynamicResAmpStepFiltered.jpg, id=1417, 372.64218pt x 295.85532pt
+>
+File: BLMS_Figures/DynamicResAmpStepFiltered.jpg Graphic file (type jpg)
+ <use BLMS_Figures/DynamicResAmpStepFiltered.jpg>
+Package pdftex.def Info: BLMS_Figures/DynamicResAmpStepFiltered.jpg used on inp
+ut line 569.
+(pdftex.def)             Requested size: 279.48094pt x 221.89093pt.
+ [31 <./BLMS_Figures/DynamicResAmpStep.jpg> <./BLMS_Figures/DynamicResPhaseStep
+.jpg>]
+<BLMS_Figures/DynamicRampTest.jpg, id=1422, 376.40625pt x 292.09125pt>
+File: BLMS_Figures/DynamicRampTest.jpg Graphic file (type jpg)
+
+<use BLMS_Figures/DynamicRampTest.jpg>
+Package pdftex.def Info: BLMS_Figures/DynamicRampTest.jpg used on input line 57
+7.
+(pdftex.def)             Requested size: 282.30399pt x 219.06789pt.
+ [32 <./BLMS_Figures/DynamicResAmpStepFiltered.jpg> <./BLMS_Figures/DynamicRamp
+Test.jpg>]
+<BLMS_Figures/TransientTest.jpg, id=1432, 368.87813pt x 303.38344pt>
+File: BLMS_Figures/TransientTest.jpg Graphic file (type jpg)
+
+<use BLMS_Figures/TransientTest.jpg>
+Package pdftex.def Info: BLMS_Figures/TransientTest.jpg used on input line 588.
+
+(pdftex.def)             Requested size: 295.10289pt x 242.70708pt.
+ [33] [34 <./BLMS_Figures/TransientTest.jpg>] [35] [36]
+CHAPTER 3:
+[37
+
+] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
+<NonuniformANF/VerySpecialEigenvaluesFinal.pdf, id=1693, 375.80602pt x 296.309p
+t>
+File: NonuniformANF/VerySpecialEigenvaluesFinal.pdf Graphic file (type pdf)
+ <use NonuniformANF/VerySpecialEigenvaluesFinal.pdf>
+Package pdftex.def Info: NonuniformANF/VerySpecialEigenvaluesFinal.pdf used on 
+input line 1226.
+(pdftex.def)             Requested size: 338.22227pt x 266.67563pt.
+ [50 <./NonuniformANF/VerySpecialEigenvaluesFinal.pdf>] [51]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/SignalUnifNonUnif.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/SignalUnifNonUnif.pdf, id=1757, 394.32721pt x 295.82318pt>
+File: NonuniformANF/SignalUnifNonUnif.pdf Graphic file (type pdf)
+
+<use NonuniformANF/SignalUnifNonUnif.pdf>
+Package pdftex.def Info: NonuniformANF/SignalUnifNonUnif.pdf used on input line
+ 1265.
+(pdftex.def)             Requested size: 394.32623pt x 295.82245pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/PoinCareMap.pdf): PDF inclus
+ion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/PoinCareMap.pdf, id=1760, 394.32721pt x 295.82318pt>
+File: NonuniformANF/PoinCareMap.pdf Graphic file (type pdf)
+
+<use NonuniformANF/PoinCareMap.pdf>
+Package pdftex.def Info: NonuniformANF/PoinCareMap.pdf used on input line 1277.
+
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/PoinCareSection11.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/PoinCareSection11.pdf, id=1761, 394.32721pt x 295.82318pt>
+File: NonuniformANF/PoinCareSection11.pdf Graphic file (type pdf)
+
+<use NonuniformANF/PoinCareSection11.pdf>
+Package pdftex.def Info: NonuniformANF/PoinCareSection11.pdf used on input line
+ 1278.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+ [52 <./NonuniformANF/SignalUnifNonUnif.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/FreqConverUnifNonUnif60Pos.p
+df): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+<NonuniformANF/FreqConverUnifNonUnif60Pos.pdf, id=1783, 394.32721pt x 295.82318
+pt>
+File: NonuniformANF/FreqConverUnifNonUnif60Pos.pdf Graphic file (type pdf)
+ <use NonuniformANF/FreqConverUnifNonUnif60Pos.pdf>
+Package pdftex.def Info: NonuniformANF/FreqConverUnifNonUnif60Pos.pdf used on i
+nput line 1296.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/FreqConverUnifNonUnif170Pos.
+pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+<NonuniformANF/FreqConverUnifNonUnif170Pos.pdf, id=1784, 394.32721pt x 295.8231
+8pt>
+File: NonuniformANF/FreqConverUnifNonUnif170Pos.pdf Graphic file (type pdf)
+ <use NonuniformANF/FreqConverUnifNonUnif170Pos.pdf>
+Package pdftex.def Info: NonuniformANF/FreqConverUnifNonUnif170Pos.pdf used on 
+input line 1296.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+ [53 <./NonuniformANF/PoinCareMap.pdf> <./NonuniformANF/PoinCareSection11.pdf>]
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/EstimateDiffAmplitudes.pdf):
+ PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+<NonuniformANF/EstimateDiffAmplitudes.pdf, id=1820, 394.32721pt x 295.82318pt>
+File: NonuniformANF/EstimateDiffAmplitudes.pdf Graphic file (type pdf)
+
+<use NonuniformANF/EstimateDiffAmplitudes.pdf>
+Package pdftex.def Info: NonuniformANF/EstimateDiffAmplitudes.pdf used on input
+ line 1310.
+(pdftex.def)             Requested size: 295.74467pt x 221.86684pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/MeanFreqErrorVsSNR.pdf): PDF
+ inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/MeanFreqErrorVsSNR.pdf, id=1821, 394.32721pt x 295.82318pt>
+File: NonuniformANF/MeanFreqErrorVsSNR.pdf Graphic file (type pdf)
+
+<use NonuniformANF/MeanFreqErrorVsSNR.pdf>
+Package pdftex.def Info: NonuniformANF/MeanFreqErrorVsSNR.pdf used on input lin
+e 1311.
+(pdftex.def)             Requested size: 295.74467pt x 221.86684pt.
+ [54 <./NonuniformANF/FreqConverUnifNonUnif60Pos.pdf> <./NonuniformANF/FreqConv
+erUnifNonUnif170Pos.pdf>] [55 <./NonuniformANF/EstimateDiffAmplitudes.pdf> <./N
+onuniformANF/MeanFreqErrorVsSNR.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/3dStateSpaceHops.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/3dStateSpaceHops.pdf, id=1899, 395.00975pt x 261.22493pt>
+File: NonuniformANF/3dStateSpaceHops.pdf Graphic file (type pdf)
+
+<use NonuniformANF/3dStateSpaceHops.pdf>
+Package pdftex.def Info: NonuniformANF/3dStateSpaceHops.pdf used on input line 
+1360.
+(pdftex.def)             Requested size: 316.00822pt x 208.98021pt.
+
+<NonuniformANF/FrequencyTracking.pdf, id=1900, 376.85394pt x 298.01337pt>
+File: NonuniformANF/FrequencyTracking.pdf Graphic file (type pdf)
+
+<use NonuniformANF/FrequencyTracking.pdf>
+Package pdftex.def Info: NonuniformANF/FrequencyTracking.pdf used on input line
+ 1362.
+(pdftex.def)             Requested size: 301.48355pt x 238.411pt.
+ [56] [57 <./NonuniformANF/3dStateSpaceHops.pdf> <./NonuniformANF/FrequencyTrac
+king.pdf>] [58]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/Convergence_RK_OUR_1.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/Convergence_RK_OUR_1.pdf, id=1977, 394.32721pt x 295.82318pt>
+File: NonuniformANF/Convergence_RK_OUR_1.pdf Graphic file (type pdf)
+
+<use NonuniformANF/Convergence_RK_OUR_1.pdf>
+Package pdftex.def Info: NonuniformANF/Convergence_RK_OUR_1.pdf used on input l
+ine 1425.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/Convergence_RK_OUR_2.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/Convergence_RK_OUR_2.pdf, id=1978, 394.32721pt x 295.82318pt>
+File: NonuniformANF/Convergence_RK_OUR_2.pdf Graphic file (type pdf)
+
+<use NonuniformANF/Convergence_RK_OUR_2.pdf>
+Package pdftex.def Info: NonuniformANF/Convergence_RK_OUR_2.pdf used on input l
+ine 1426.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+ [59]
+<NonuniformANF/newCompetitiveANFComp.pdf, id=1989, 387.89114pt x 299.59027pt>
+File: NonuniformANF/newCompetitiveANFComp.pdf Graphic file (type pdf)
+
+<use NonuniformANF/newCompetitiveANFComp.pdf>
+Package pdftex.def Info: NonuniformANF/newCompetitiveANFComp.pdf used on input 
+line 1438.
+(pdftex.def)             Requested size: 310.31332pt x 239.67253pt.
+ [60 <./NonuniformANF/Convergence_RK_OUR_1.pdf> <./NonuniformANF/Convergence_RK
+_OUR_2.pdf>] [61 <./NonuniformANF/newCompetitiveANFComp.pdf>] [62]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/OrderComparison.pdf): PDF in
+clusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/OrderComparison.pdf, id=2071, 394.32721pt x 295.82318pt>
+File: NonuniformANF/OrderComparison.pdf Graphic file (type pdf)
+
+<use NonuniformANF/OrderComparison.pdf>
+Package pdftex.def Info: NonuniformANF/OrderComparison.pdf used on input line 1
+539.
+(pdftex.def)             Requested size: 354.89119pt x 266.23839pt.
+ [63]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/HeterodyningChannel.pdf): PD
+F inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/HeterodyningChannel.pdf, id=2081, 925.70844pt x 404.05956pt>
+File: NonuniformANF/HeterodyningChannel.pdf Graphic file (type pdf)
+
+<use NonuniformANF/HeterodyningChannel.pdf>
+Package pdftex.def Info: NonuniformANF/HeterodyningChannel.pdf used on input li
+ne 1559.
+(pdftex.def)             Requested size: 462.85309pt x 202.02928pt.
+ [64 <./NonuniformANF/OrderComparison.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/HighFreqEst1.pdf): PDF inclu
+sion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/HighFreqEst1.pdf, id=2093, 394.32721pt x 295.82318pt>
+File: NonuniformANF/HighFreqEst1.pdf Graphic file (type pdf)
+
+<use NonuniformANF/HighFreqEst1.pdf>
+Package pdftex.def Info: NonuniformANF/HighFreqEst1.pdf used on input line 1567
+.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/LowPassDesign.pdf): PDF incl
+usion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/LowPassDesign.pdf, id=2094, 757.58331pt x 372.07709pt>
+File: NonuniformANF/LowPassDesign.pdf Graphic file (type pdf)
+
+<use NonuniformANF/LowPassDesign.pdf>
+Package pdftex.def Info: NonuniformANF/LowPassDesign.pdf used on input line 156
+8.
+(pdftex.def)             Requested size: 378.79073pt x 186.03809pt.
+ [65 <./NonuniformANF/HeterodyningChannel.pdf>] [66 <./NonuniformANF/HighFreqEs
+t1.pdf> <./NonuniformANF/LowPassDesign.pdf>] [67]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/CLRB_noise.pdf): PDF inclusi
+on: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/CLRB_noise.pdf, id=2157, 394.32721pt x 295.82318pt>
+File: NonuniformANF/CLRB_noise.pdf Graphic file (type pdf)
+
+<use NonuniformANF/CLRB_noise.pdf>
+Package pdftex.def Info: NonuniformANF/CLRB_noise.pdf used on input line 1666.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+ [68]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/CLRB_meanvalue.pdf): PDF inc
+lusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/CLRB_meanvalue.pdf, id=2165, 394.32721pt x 295.82318pt>
+File: NonuniformANF/CLRB_meanvalue.pdf Graphic file (type pdf)
+
+<use NonuniformANF/CLRB_meanvalue.pdf>
+Package pdftex.def Info: NonuniformANF/CLRB_meanvalue.pdf used on input line 16
+91.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/CLRB_varianceerror.pdf): PDF
+ inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/CLRB_varianceerror.pdf, id=2166, 394.32721pt x 295.82318pt>
+File: NonuniformANF/CLRB_varianceerror.pdf Graphic file (type pdf)
+
+<use NonuniformANF/CLRB_varianceerror.pdf>
+Package pdftex.def Info: NonuniformANF/CLRB_varianceerror.pdf used on input lin
+e 1692.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+ [69 <./NonuniformANF/CLRB_noise.pdf>] [70 <./NonuniformANF/CLRB_meanvalue.pdf>
+ <./NonuniformANF/CLRB_varianceerror.pdf>] [71] [72]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/ODESolverInDiscreteTime.pdf)
+: PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+<NonuniformANF/ODESolverInDiscreteTime.pdf, id=2237, 755.55272pt x 420.48091pt>
+File: NonuniformANF/ODESolverInDiscreteTime.pdf Graphic file (type pdf)
+<use NonuniformANF/ODESolverInDiscreteTime.pdf>
+Package pdftex.def Info: NonuniformANF/ODESolverInDiscreteTime.pdf used on inpu
+t line 1833.
+(pdftex.def)             Requested size: 453.33513pt x 252.2905pt.
+ [73 <./NonuniformANF/ODESolverInDiscreteTime.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/AdaptiveObserver_ANF_Compari
+son.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
+owed
+
+<NonuniformANF/AdaptiveObserver_ANF_Comparison.pdf, id=2251, 528.22343pt x 409.
+97165pt>
+File: NonuniformANF/AdaptiveObserver_ANF_Comparison.pdf Graphic file (type pdf)
+
+ <use NonuniformANF/AdaptiveObserver_ANF_Comparison.pdf>
+Package pdftex.def Info: NonuniformANF/AdaptiveObserver_ANF_Comparison.pdf used
+ on input line 1845.
+(pdftex.def)             Requested size: 422.57932pt x 327.97774pt.
+ [74 <./NonuniformANF/AdaptiveObserver_ANF_Comparison.pdf>] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1957
+
+ []
+
+[76]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/StaticTwoFreqCascade.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/StaticTwoFreqCascade.pdf, id=2317, 394.32721pt x 295.82318pt>
+File: NonuniformANF/StaticTwoFreqCascade.pdf Graphic file (type pdf)
+
+<use NonuniformANF/StaticTwoFreqCascade.pdf>
+Package pdftex.def Info: NonuniformANF/StaticTwoFreqCascade.pdf used on input l
+ine 2020.
+(pdftex.def)             Requested size: 295.74467pt x 221.86684pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/StaticTwoFreqParallel.pdf): 
+PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/StaticTwoFreqParallel.pdf, id=2318, 394.32721pt x 295.82318pt>
+File: NonuniformANF/StaticTwoFreqParallel.pdf Graphic file (type pdf)
+
+<use NonuniformANF/StaticTwoFreqParallel.pdf>
+Package pdftex.def Info: NonuniformANF/StaticTwoFreqParallel.pdf used on input 
+line 2021.
+(pdftex.def)             Requested size: 295.74467pt x 221.86684pt.
+ [77] [78 <./NonuniformANF/StaticTwoFreqCascade.pdf> <./NonuniformANF/StaticTwo
+FreqParallel.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/Cascade.pdf): PDF inclusion:
+ found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/Cascade.pdf, id=2360, 757.5201pt x 393.54027pt>
+File: NonuniformANF/Cascade.pdf Graphic file (type pdf)
+
+<use NonuniformANF/Cascade.pdf>
+Package pdftex.def Info: NonuniformANF/Cascade.pdf used on input line 2058.
+(pdftex.def)             Requested size: 454.51556pt x 236.12598pt.
+ [79]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/PrefilterParallel.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/PrefilterParallel.pdf, id=2368, 678.6856pt x 509.17226pt>
+File: NonuniformANF/PrefilterParallel.pdf Graphic file (type pdf)
+
+<use NonuniformANF/PrefilterParallel.pdf>
+Package pdftex.def Info: NonuniformANF/PrefilterParallel.pdf used on input line
+ 2075.
+(pdftex.def)             Requested size: 407.21451pt x 305.5057pt.
+ [80 <./NonuniformANF/Cascade.pdf>]
+[81 <./NonuniformANF/PrefilterParallel.pdf>] [82]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/Figure18aMultiFirstCompariso
+n.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<NonuniformANF/Figure18aMultiFirstComparison.pdf, id=2395, 394.32721pt x 295.82
+318pt>
+File: NonuniformANF/Figure18aMultiFirstComparison.pdf Graphic file (type pdf)
+ <use NonuniformANF/Figure18aMultiFirstComparison.pdf>
+Package pdftex.def Info: NonuniformANF/Figure18aMultiFirstComparison.pdf used o
+n input line 2159.
+(pdftex.def)             Requested size: 315.46219pt x 236.65886pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/Figure18bPrefilteredBandPass
+.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowe
+d
+
+<NonuniformANF/Figure18bPrefilteredBandPass.pdf, id=2396, 757.58331pt x 372.077
+09pt>
+File: NonuniformANF/Figure18bPrefilteredBandPass.pdf Graphic file (type pdf)
+ <use NonuniformANF/Figure18bPrefilteredBandPass.pdf>
+Package pdftex.def Info: NonuniformANF/Figure18bPrefilteredBandPass.pdf used on
+ input line 2160.
+(pdftex.def)             Requested size: 378.79073pt x 186.03809pt.
+ [83] [84 <./NonuniformANF/Figure18aMultiFirstComparison.pdf> <./NonuniformANF/
+Figure18bPrefilteredBandPass.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/PathologicalCase.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/PathologicalCase.pdf, id=2438, 394.32721pt x 295.82318pt>
+File: NonuniformANF/PathologicalCase.pdf Graphic file (type pdf)
+
+<use NonuniformANF/PathologicalCase.pdf>
+Package pdftex.def Info: NonuniformANF/PathologicalCase.pdf used on input line 
+2205.
+(pdftex.def)             Requested size: 354.89119pt x 266.23839pt.
+ [85]
+Overfull \hbox (14.09099pt too wide) in paragraph at lines 2223--2248
+\OT1/ptm/m/n/12 ro-bust-ness of our fre-quency es-ti-ma-tion. We did the sim-u-
+la-tion for noise with SNR=$\OT1/cmr/m/n/12 40\OML/cmm/m/it/12 ; \OT1/cmr/m/n/1
+2 30\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 20\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 10\
+OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0$\OT1/ptm/m/n/12 dB,
+ []
+
+[86 <./NonuniformANF/PathologicalCase.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/Figure20a.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/Figure20a.pdf, id=2470, 394.32721pt x 295.82318pt>
+File: NonuniformANF/Figure20a.pdf Graphic file (type pdf)
+
+<use NonuniformANF/Figure20a.pdf>
+Package pdftex.def Info: NonuniformANF/Figure20a.pdf used on input line 2278.
+(pdftex.def)             Requested size: 354.89119pt x 266.23839pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/Figure20b.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/Figure20b.pdf, id=2471, 395.00975pt x 261.22493pt>
+File: NonuniformANF/Figure20b.pdf Graphic file (type pdf)
+
+<use NonuniformANF/Figure20b.pdf>
+Package pdftex.def Info: NonuniformANF/Figure20b.pdf used on input line 2279.
+(pdftex.def)             Requested size: 355.50548pt x 235.10025pt.
+ [87] [88 <./NonuniformANF/Figure20a.pdf> <./NonuniformANF/Figure20b.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/EstimateFirst4of7.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/EstimateFirst4of7.pdf, id=2508, 394.32721pt x 295.82318pt>
+File: NonuniformANF/EstimateFirst4of7.pdf Graphic file (type pdf)
+
+<use NonuniformANF/EstimateFirst4of7.pdf>
+Package pdftex.def Info: NonuniformANF/EstimateFirst4of7.pdf used on input line
+ 2312.
+(pdftex.def)             Requested size: 295.74467pt x 221.86684pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./NonuniformANF/EstimateLast3of7.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<NonuniformANF/EstimateLast3of7.pdf, id=2509, 394.32721pt x 295.82318pt>
+File: NonuniformANF/EstimateLast3of7.pdf Graphic file (type pdf)
+
+<use NonuniformANF/EstimateLast3of7.pdf>
+Package pdftex.def Info: NonuniformANF/EstimateLast3of7.pdf used on input line 
+2313.
+(pdftex.def)             Requested size: 295.74467pt x 221.86684pt.
+ [89] [90 <./NonuniformANF/EstimateFirst4of7.pdf> <./NonuniformANF/EstimateLast
+3of7.pdf>] [91] [92]
+CHAPTER 4:
+[93
+
+]
+Overfull \hbox (35.65724pt too wide) in paragraph at lines 2400--2402
+\OT1/ptm/m/n/12 Transforming the fre-quency co-or-di-nates from Carte-sian to p
+o-lar co-or-di-nates, i.e. $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 u; v\OT1/cmr/m/n/
+12 ) = (\OML/cmm/m/it/12  [] ;  [] \OT1/cmr/m/n/12 )$\OT1/ptm/m/n/12 ,
+ []
+
+[94] [95] [96] [97]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2427.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2427.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2438.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2438.
+
+[98] [99]
+
+pdfTeX warning: pdflatex.exe (file ./PolarSphericalDFT/UniformGrid.pdf): PDF in
+clusion: found PDF version <1.6>, but at most version <1.5> allowed
+<PolarSphericalDFT/UniformGrid.pdf, id=2687, 306.62001pt x 258.15848pt>
+File: PolarSphericalDFT/UniformGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/UniformGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/UniformGrid.pdf used on input line 2
+476.
+(pdftex.def)             Requested size: 275.95546pt x 232.34047pt.
+
+<PolarSphericalDFT/XAxisScaledGrid.pdf, id=2688, 358.98315pt x 315.35918pt>
+File: PolarSphericalDFT/XAxisScaledGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/XAxisScaledGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/XAxisScaledGrid.pdf used on input li
+ne 2477.
+(pdftex.def)             Requested size: 215.39154pt x 189.21695pt.
+
+<PolarSphericalDFT/XYAxisScaledGrid.pdf, id=2689, 364.76477pt x 280.66959pt>
+File: PolarSphericalDFT/XYAxisScaledGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/XYAxisScaledGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/XYAxisScaledGrid.pdf used on input l
+ine 2478.
+(pdftex.def)             Requested size: 218.86053pt x 168.40303pt.
+ [100] [101 <./PolarSphericalDFT/UniformGrid.pdf> <./PolarSphericalDFT/XAxisSca
+ledGrid.pdf> <./PolarSphericalDFT/XYAxisScaledGrid.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./PolarSphericalDFT/Square_PolarTransformati
+on.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allo
+wed
+
+<PolarSphericalDFT/Square_PolarTransformation.pdf, id=2758, 722.3778pt x 509.50
+84pt>
+File: PolarSphericalDFT/Square_PolarTransformation.pdf Graphic file (type pdf)
+ <use PolarSphericalDFT/Square_PolarTransformation.pdf>
+Package pdftex.def Info: PolarSphericalDFT/Square_PolarTransformation.pdf used 
+on input line 2489.
+(pdftex.def)             Requested size: 433.43002pt x 305.7074pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./PolarSphericalDFT/FirstLevelXGrid.pdf): PD
+F inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<PolarSphericalDFT/FirstLevelXGrid.pdf, id=2759, 258.85777pt x 286.8888pt>
+File: PolarSphericalDFT/FirstLevelXGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/FirstLevelXGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/FirstLevelXGrid.pdf used on input li
+ne 2490.
+(pdftex.def)             Requested size: 155.31586pt x 172.1346pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./PolarSphericalDFT/FirstLevelYGrid.pdf): PD
+F inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<PolarSphericalDFT/FirstLevelYGrid.pdf, id=2760, 330.25081pt x 284.261pt>
+File: PolarSphericalDFT/FirstLevelYGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/FirstLevelYGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/FirstLevelYGrid.pdf used on input li
+ne 2491.
+(pdftex.def)             Requested size: 198.15201pt x 170.5579pt.
+ [102] [103 <./PolarSphericalDFT/Square_PolarTransformation.pdf> <./PolarSpheri
+calDFT/FirstLevelXGrid.pdf> <./PolarSphericalDFT/FirstLevelYGrid.pdf>] [104] [1
+05]
+
+pdfTeX warning: pdflatex.exe (file ./PolarSphericalDFT/SecondLevelXGrid.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<PolarSphericalDFT/SecondLevelXGrid.pdf, id=2875, 271.7351pt x 283.66576pt>
+File: PolarSphericalDFT/SecondLevelXGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/SecondLevelXGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/SecondLevelXGrid.pdf used on input l
+ine 2552.
+(pdftex.def)             Requested size: 190.21326pt x 198.56467pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./PolarSphericalDFT/SecondLevelYGrid.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<PolarSphericalDFT/SecondLevelYGrid.pdf, id=2876, 271.97398pt x 285.37215pt>
+File: PolarSphericalDFT/SecondLevelYGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/SecondLevelYGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/SecondLevelYGrid.pdf used on input l
+ine 2553.
+(pdftex.def)             Requested size: 190.38048pt x 199.75912pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./PolarSphericalDFT/SecondLevelXYGrid.pdf): 
+PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<PolarSphericalDFT/SecondLevelXYGrid.pdf, id=2877, 276.01851pt x 285.26476pt>
+File: PolarSphericalDFT/SecondLevelXYGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/SecondLevelXYGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/SecondLevelXYGrid.pdf used on input 
+line 2554.
+(pdftex.def)             Requested size: 193.21162pt x 199.68396pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./PolarSphericalDFT/SecondLevelYXGrid.pdf): 
+PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<PolarSphericalDFT/SecondLevelYXGrid.pdf, id=2878, 313.34555pt x 286.29257pt>
+File: PolarSphericalDFT/SecondLevelYXGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/SecondLevelYXGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/SecondLevelYXGrid.pdf used on input 
+line 2555.
+(pdftex.def)             Requested size: 219.34038pt x 200.40343pt.
+ [106] [107 <./PolarSphericalDFT/SecondLevelXGrid.pdf> <./PolarSphericalDFT/Sec
+ondLevelYGrid.pdf> <./PolarSphericalDFT/SecondLevelXYGrid.pdf> <./PolarSpherica
+lDFT/SecondLevelYXGrid.pdf>]
+[108] [109]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2622.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 2622
+.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (9.87724pt too wide) in paragraph at lines 2622--2623
+[]\OT1/ptm/b/n/12 Input\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Image $\OML/cmm/m/it/1
+2 f$ \OT1/pcr/m/n/12 of size $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 N \OT1/cmr/m/n/
+12 + 1) \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 N \OT1/cmr/m/n/12 
++ 1)$ \OT1/pcr/m/n/12 and the number $\OML/cmm/m/it/12 M$ \OT1/pcr/m/n/12 of an
+gles, where
+ []
+
+
+Overfull \hbox (50.69147pt too wide) in paragraph at lines 2624--2625
+[]\OT1/ptm/b/n/12 Output\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Polar grid $\OML/cmm/
+m/it/12 F$ \OT1/pcr/m/n/12 of size $\OML/cmm/m/it/12 M \OMS/cmsy/m/n/12  \OT1/
+cmr/m/n/12 (\OML/cmm/m/it/12 N \OT1/cmr/m/n/12 + 1)$ \OT1/pcr/m/n/12 computed a
+ccording to the definition
+ []
+
+
+Overfull \hbox (7.39754pt too wide) in paragraph at lines 2626--2627
+[]\OT1/ptm/b/n/12 Step 1\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 For the level $\OML/c
+mm/m/it/12 l$\OT1/pcr/m/n/12 , where $\OT1/cmr/m/n/12 1 \OMS/cmsy/m/n/12  \OML
+/cmm/m/it/12 l \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 L$ \OT1/pcr/m/n/12 and $\OML
+/cmm/m/it/12 L \U/msb/m/n/12 u \OML/cmm/m/it/12 M=\OT1/cmr/m/n/12 4$ \OT1/pcr/m
+/n/12 is the total number
+ []
+
+
+Overfull \hbox (3.35872pt too wide) in paragraph at lines 2630--2631
+[]\OT1/ptm/b/n/12 Step 3\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Apply the scaling $\O
+ML/cmm/m/it/12 []$ \OT1/pcr/m/n/12 to evaluate 1D FrFT [] for the image $\OML/
+cmm/m/it/12 f$
+ []
+
+[110]
+Overfull \hbox (9.65367pt too wide) in paragraph at lines 2632--2633
+[]\OT1/ptm/b/n/12 Step 4\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Compute two horizonta
+l lines using the scaling $\OML/cmm/m/it/12 []$ \OT1/pcr/m/n/12 according to
+ []
+
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 2638.
+[111] <PolarSphericalDFT/PrecisionLoss.pdf, id=3009, 388.9451pt x 301.56364pt>
+File: PolarSphericalDFT/PrecisionLoss.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/PrecisionLoss.pdf>
+Package pdftex.def Info: PolarSphericalDFT/PrecisionLoss.pdf used on input line
+ 2695.
+(pdftex.def)             Requested size: 311.1565pt x 241.25124pt.
+ [112 <./PolarSphericalDFT/PrecisionLoss.pdf>]
+<PolarSphericalDFT/ComparisonNFFTExt.pdf, id=3096, 393.54498pt x 306.82028pt>
+File: PolarSphericalDFT/ComparisonNFFTExt.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/ComparisonNFFTExt.pdf>
+Package pdftex.def Info: PolarSphericalDFT/ComparisonNFFTExt.pdf used on input 
+line 2712.
+(pdftex.def)             Requested size: 354.18721pt x 276.1357pt.
+ [113] [114 <./PolarSphericalDFT/ComparisonNFFTExt.pdf>]
+<PolarSphericalDFT/ImagesRunningTime.pdf, id=3133, 369.6711pt x 296.08717pt>
+File: PolarSphericalDFT/ImagesRunningTime.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/ImagesRunningTime.pdf>
+Package pdftex.def Info: PolarSphericalDFT/ImagesRunningTime.pdf used on input 
+line 2743.
+(pdftex.def)             Requested size: 332.7009pt x 266.47598pt.
+ [115] [116 <./PolarSphericalDFT/ImagesRunningTime.pdf>] [117] [118] [119]
+<PolarSphericalDFT/PurePolarGrid.pdf, id=3191, 317.98701pt x 300.6412pt>
+File: PolarSphericalDFT/PurePolarGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/PurePolarGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/PurePolarGrid.pdf used on input line
+ 2885.
+(pdftex.def)             Requested size: 158.99312pt x 150.32022pt.
+
+<PolarSphericalDFT/PolarWithRadialCorner.pdf, id=3192, 300.11723pt x 300.64221p
+t>
+File: PolarSphericalDFT/PolarWithRadialCorner.pdf Graphic file (type pdf)
+ <use PolarSphericalDFT/PolarWithRadialCorner.pdf>
+Package pdftex.def Info: PolarSphericalDFT/PolarWithRadialCorner.pdf used on in
+put line 2886.
+(pdftex.def)             Requested size: 150.05824pt x 150.32072pt.
+
+<PolarSphericalDFT/PurePolarGridx2.pdf, id=3193, 330.60112pt x 310.10254pt>
+File: PolarSphericalDFT/PurePolarGridx2.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/PurePolarGridx2.pdf>
+Package pdftex.def Info: PolarSphericalDFT/PurePolarGridx2.pdf used on input li
+ne 2887.
+(pdftex.def)             Requested size: 165.30014pt x 155.05087pt.
+
+<PolarSphericalDFT/PolarWithRadialCornerx2.pdf, id=3194, 324.8195pt x 298.53935
+pt>
+File: PolarSphericalDFT/PolarWithRadialCornerx2.pdf Graphic file (type pdf)
+ <use PolarSphericalDFT/PolarWithRadialCornerx2.pdf>
+Package pdftex.def Info: PolarSphericalDFT/PolarWithRadialCornerx2.pdf used on 
+input line 2888.
+(pdftex.def)             Requested size: 162.40935pt x 149.2693pt.
+
+<PolarSphericalDFT/PolarWithCartesianCorner.pdf, id=3195, 317.11072pt x 305.723
+18pt>
+File: PolarSphericalDFT/PolarWithCartesianCorner.pdf Graphic file (type pdf)
+ <use PolarSphericalDFT/PolarWithCartesianCorner.pdf>
+Package pdftex.def Info: PolarSphericalDFT/PolarWithCartesianCorner.pdf used on
+ input line 2889.
+(pdftex.def)             Requested size: 158.55496pt x 152.8612pt.
+
+<PolarSphericalDFT/PolarWithCartesianCornerx2.pdf, id=3196, 317.46204pt x 314.8
+3322pt>
+File: PolarSphericalDFT/PolarWithCartesianCornerx2.pdf Graphic file (type pdf)
+ <use PolarSphericalDFT/PolarWithCartesianCornerx2.pdf>
+Package pdftex.def Info: PolarSphericalDFT/PolarWithCartesianCornerx2.pdf used 
+on input line 2890.
+(pdftex.def)             Requested size: 158.73062pt x 157.41621pt.
+ [120]
+<PolarSphericalDFT/CornerComparisons.pdf, id=3204, 386.18579pt x 300.83492pt>
+File: PolarSphericalDFT/CornerComparisons.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/CornerComparisons.pdf>
+Package pdftex.def Info: PolarSphericalDFT/CornerComparisons.pdf used on input 
+line 2898.
+(pdftex.def)             Requested size: 347.564pt x 270.7489pt.
+ [121 <./PolarSphericalDFT/PurePolarGrid.pdf> <./PolarSphericalDFT/PolarWithRad
+ialCorner.pdf> <./PolarSphericalDFT/PurePolarGridx2.pdf> <./PolarSphericalDFT/P
+olarWithRadialCornerx2.pdf> <./PolarSphericalDFT/PolarWithCartesianCorner.pdf> 
+<./PolarSphericalDFT/PolarWithCartesianCornerx2.pdf>] [122 <./PolarSphericalDFT
+/CornerComparisons.pdf>] [123]
+[124]
+<PolarSphericalDFT/CornerCompensatedPaddedReconstruction.pdf, id=3284, 288.0270
+5pt x 285.9252pt>
+File: PolarSphericalDFT/CornerCompensatedPaddedReconstruction.pdf Graphic file 
+(type pdf)
+
+<use PolarSphericalDFT/CornerCompensatedPaddedReconstruction.pdf>
+Package pdftex.def Info: PolarSphericalDFT/CornerCompensatedPaddedReconstructio
+n.pdf used on input line 2968.
+(pdftex.def)             Requested size: 201.61755pt x 200.14627pt.
+
+<PolarSphericalDFT/CornerCompensatedPaddedReconstructionFBP.pdf, id=3285, 277.2
+5482pt x 289.08101pt>
+File: PolarSphericalDFT/CornerCompensatedPaddedReconstructionFBP.pdf Graphic fi
+le (type pdf)
+
+<use PolarSphericalDFT/CornerCompensatedPaddedReconstructionFBP.pdf>
+Package pdftex.def Info: PolarSphericalDFT/CornerCompensatedPaddedReconstructio
+nFBP.pdf used on input line 2969.
+(pdftex.def)             Requested size: 194.07704pt x 202.35532pt.
+
+<PolarSphericalDFT/CornerCompensatedPaddedReconstructionError.pdf, id=3286, 364
+.63626pt x 294.33664pt>
+File: PolarSphericalDFT/CornerCompensatedPaddedReconstructionError.pdf Graphic 
+file (type pdf)
+
+<use PolarSphericalDFT/CornerCompensatedPaddedReconstructionError.pdf>
+Package pdftex.def Info: PolarSphericalDFT/CornerCompensatedPaddedReconstructio
+nError.pdf used on input line 2970.
+(pdftex.def)             Requested size: 218.78343pt x 176.60333pt.
+
+<PolarSphericalDFT/CornerCompensatedPaddedReconstructionErrorFBP.pdf, id=3287, 
+366.60765pt x 294.33765pt>
+File: PolarSphericalDFT/CornerCompensatedPaddedReconstructionErrorFBP.pdf Graph
+ic file (type pdf)
+
+<use PolarSphericalDFT/CornerCompensatedPaddedReconstructionErrorFBP.pdf>
+Package pdftex.def Info: PolarSphericalDFT/CornerCompensatedPaddedReconstructio
+nErrorFBP.pdf used on input line 2971.
+(pdftex.def)             Requested size: 219.96628pt x 176.60394pt.
+
+[125] [126 <./PolarSphericalDFT/CornerCompensatedPaddedReconstruction.pdf> <./P
+olarSphericalDFT/CornerCompensatedPaddedReconstructionFBP.pdf> <./PolarSpherica
+lDFT/CornerCompensatedPaddedReconstructionError.pdf> <./PolarSphericalDFT/Corne
+rCompensatedPaddedReconstructionErrorFBP.pdf>] [127] [128] [129]
+<PolarSphericalDFT/FirstToeplitzBlock.pdf, id=3343, 340.06145pt x 294.33461pt>
+File: PolarSphericalDFT/FirstToeplitzBlock.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/FirstToeplitzBlock.pdf>
+Package pdftex.def Info: PolarSphericalDFT/FirstToeplitzBlock.pdf used on input
+ line 3132.
+(pdftex.def)             Requested size: 204.03844pt x 176.60213pt.
+
+<PolarSphericalDFT/SecondToeplitzBlock.pdf, id=3344, 356.53201pt x 292.14543pt>
+File: PolarSphericalDFT/SecondToeplitzBlock.pdf Graphic file (type pdf)
+<use PolarSphericalDFT/SecondToeplitzBlock.pdf>
+Package pdftex.def Info: PolarSphericalDFT/SecondToeplitzBlock.pdf used on inpu
+t line 3133.
+(pdftex.def)             Requested size: 213.92085pt x 175.2886pt.
+
+<PolarSphericalDFT/BTTBMatrixImage.pdf, id=3345, 363.97682pt x 293.02173pt>
+File: PolarSphericalDFT/BTTBMatrixImage.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/BTTBMatrixImage.pdf>
+Package pdftex.def Info: PolarSphericalDFT/BTTBMatrixImage.pdf used on input li
+ne 3134.
+(pdftex.def)             Requested size: 218.38777pt x 175.81438pt.
+
+<PolarSphericalDFT/BCCBMatrixImage.pdf, id=3346, 361.84183pt x 290.30559pt>
+File: PolarSphericalDFT/BCCBMatrixImage.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/BCCBMatrixImage.pdf>
+Package pdftex.def Info: PolarSphericalDFT/BCCBMatrixImage.pdf used on input li
+ne 3135.
+(pdftex.def)             Requested size: 217.10675pt x 174.1847pt.
+ [130] [131 <./PolarSphericalDFT/FirstToeplitzBlock.pdf> <./PolarSphericalDFT/S
+econdToeplitzBlock.pdf> <./PolarSphericalDFT/BTTBMatrixImage.pdf> <./PolarSpher
+icalDFT/BCCBMatrixImage.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3145.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3145.
+
+[132] [133]
+<PolarSphericalDFT/SimpleConventions3D.pdf, id=3407, 515.1576pt x 414.25818pt>
+File: PolarSphericalDFT/SimpleConventions3D.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/SimpleConventions3D.pdf>
+Package pdftex.def Info: PolarSphericalDFT/SimpleConventions3D.pdf used on inpu
+t line 3171.
+(pdftex.def)             Requested size: 334.84846pt x 269.26462pt.
+
+<PolarSphericalDFT/ButterflyGrid2D.pdf, id=3408, 321.12973pt x 287.9789pt>
+File: PolarSphericalDFT/ButterflyGrid2D.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/ButterflyGrid2D.pdf>
+Package pdftex.def Info: PolarSphericalDFT/ButterflyGrid2D.pdf used on input li
+ne 3172.
+(pdftex.def)             Requested size: 192.67932pt x 172.78867pt.
+
+<PolarSphericalDFT/ButterflyGrid3D.pdf, id=3409, 614.295pt x 645.19052pt>
+File: PolarSphericalDFT/ButterflyGrid3D.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/ButterflyGrid3D.pdf>
+Package pdftex.def Info: PolarSphericalDFT/ButterflyGrid3D.pdf used on input li
+ne 3173.
+(pdftex.def)             Requested size: 184.28992pt x 193.55864pt.
+ [134] [135 <./PolarSphericalDFT/SimpleConventions3D.pdf> <./PolarSphericalDFT/
+ButterflyGrid2D.pdf> <./PolarSphericalDFT/ButterflyGrid3D.pdf>] [136]
+<PolarSphericalDFT/CubeGrid.pdf, id=3520, 292.36626pt x 304.19246pt>
+File: PolarSphericalDFT/CubeGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/CubeGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/CubeGrid.pdf used on input line 3193
+.
+(pdftex.def)             Requested size: 175.4211pt x 182.51686pt.
+
+<PolarSphericalDFT/Single18PolarGrid.pdf, id=3521, 287.50212pt x 300.64221pt>
+File: PolarSphericalDFT/Single18PolarGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/Single18PolarGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/Single18PolarGrid.pdf used on input 
+line 3194.
+(pdftex.def)             Requested size: 172.5026pt x 180.3867pt.
+
+<PolarSphericalDFT/SphericalGridTopView.pdf, id=3522, 306.82028pt x 319.30391pt
+>
+File: PolarSphericalDFT/SphericalGridTopView.pdf Graphic file (type pdf)
+ <use PolarSphericalDFT/SphericalGridTopView.pdf>
+Package pdftex.def Info: PolarSphericalDFT/SphericalGridTopView.pdf used on inp
+ut line 3195.
+(pdftex.def)             Requested size: 184.09358pt x 191.58382pt.
+
+<PolarSphericalDFT/SphericalGrid.pdf, id=3523, 289.3741pt x 306.19493pt>
+File: PolarSphericalDFT/SphericalGrid.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/SphericalGrid.pdf>
+Package pdftex.def Info: PolarSphericalDFT/SphericalGrid.pdf used on input line
+ 3196.
+(pdftex.def)             Requested size: 173.6258pt x 183.71837pt.
+
+<PolarSphericalDFT/SphericalDivisions.pdf, id=3524, 908.39111pt x 525.44186pt>
+File: PolarSphericalDFT/SphericalDivisions.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/SphericalDivisions.pdf>
+Package pdftex.def Info: PolarSphericalDFT/SphericalDivisions.pdf used on input
+ line 3206.
+(pdftex.def)             Requested size: 469.75499pt x 271.72403pt.
+ [137 <./PolarSphericalDFT/CubeGrid.pdf> <./PolarSphericalDFT/Single18PolarGrid
+.pdf> <./PolarSphericalDFT/SphericalGridTopView.pdf> <./PolarSphericalDFT/Spher
+icalGrid.pdf>] [138 <./PolarSphericalDFT/SphericalDivisions.pdf>]
+<PolarSphericalDFT/XXBlockLevel1.pdf, id=3720, 281.19553pt x 270.24562pt>
+File: PolarSphericalDFT/XXBlockLevel1.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/XXBlockLevel1.pdf>
+Package pdftex.def Info: PolarSphericalDFT/XXBlockLevel1.pdf used on input line
+ 3244.
+(pdftex.def)             Requested size: 149.03291pt x 143.22949pt.
+
+<PolarSphericalDFT/XXBlockLevel22.pdf, id=3721, 325.86143pt x 286.11292pt>
+File: PolarSphericalDFT/XXBlockLevel22.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/XXBlockLevel22.pdf>
+Package pdftex.def Info: PolarSphericalDFT/XXBlockLevel22.pdf used on input lin
+e 3245.
+(pdftex.def)             Requested size: 172.70572pt x 151.63911pt.
+
+<PolarSphericalDFT/XZBlockLevel1.pdf, id=3722, 281.45453pt x 261.12454pt>
+File: PolarSphericalDFT/XZBlockLevel1.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/XZBlockLevel1.pdf>
+Package pdftex.def Info: PolarSphericalDFT/XZBlockLevel1.pdf used on input line
+ 3246.
+(pdftex.def)             Requested size: 149.17018pt x 138.39534pt.
+
+<PolarSphericalDFT/XZBlockLevel22.pdf, id=3723, 311.35925pt x 276.04228pt>
+File: PolarSphericalDFT/XZBlockLevel22.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/XZBlockLevel22.pdf>
+Package pdftex.def Info: PolarSphericalDFT/XZBlockLevel22.pdf used on input lin
+e 3247.
+(pdftex.def)             Requested size: 168.13148pt x 149.06061pt.
+
+<PolarSphericalDFT/YYBlockLevel1.pdf, id=3724, 275.89273pt x 260.39381pt>
+File: PolarSphericalDFT/YYBlockLevel1.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/YYBlockLevel1.pdf>
+Package pdftex.def Info: PolarSphericalDFT/YYBlockLevel1.pdf used on input line
+ 3248.
+(pdftex.def)             Requested size: 148.97984pt x 140.61057pt.
+
+<PolarSphericalDFT/YYBlockLevel22.pdf, id=3725, 320.14005pt x 279.179pt>
+File: PolarSphericalDFT/YYBlockLevel22.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/YYBlockLevel22.pdf>
+Package pdftex.def Info: PolarSphericalDFT/YYBlockLevel22.pdf used on input lin
+e 3249.
+(pdftex.def)             Requested size: 169.6734pt x 147.96416pt.
+
+<PolarSphericalDFT/YZBlockLevel1.pdf, id=3726, 274.55675pt x 253.57335pt>
+File: PolarSphericalDFT/YZBlockLevel1.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/YZBlockLevel1.pdf>
+Package pdftex.def Info: PolarSphericalDFT/YZBlockLevel1.pdf used on input line
+ 3250.
+(pdftex.def)             Requested size: 145.51437pt x 134.39322pt.
+
+<PolarSphericalDFT/YZBlockLevel22.pdf, id=3727, 287.72092pt x 252.60373pt>
+File: PolarSphericalDFT/YZBlockLevel22.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/YZBlockLevel22.pdf>
+Package pdftex.def Info: PolarSphericalDFT/YZBlockLevel22.pdf used on input lin
+e 3251.
+(pdftex.def)             Requested size: 155.36697pt x 136.40398pt.
+ [139]
+Overfull \vbox (66.27284pt too high) has occurred while \output is active []
+
+
+[140 <./PolarSphericalDFT/XXBlockLevel1.pdf> <./PolarSphericalDFT/XXBlockLevel2
+2.pdf> <./PolarSphericalDFT/XZBlockLevel1.pdf> <./PolarSphericalDFT/XZBlockLeve
+l22.pdf> <./PolarSphericalDFT/YYBlockLevel1.pdf> <./PolarSphericalDFT/YYBlockLe
+vel22.pdf> <./PolarSphericalDFT/YZBlockLevel1.pdf> <./PolarSphericalDFT/YZBlock
+Level22.pdf>] [141] [142] [143] [144]
+<PolarSphericalDFT/VolumeRunningTime.pdf, id=3978, 531.90572pt x 402.60814pt>
+File: PolarSphericalDFT/VolumeRunningTime.pdf Graphic file (type pdf)
+
+<use PolarSphericalDFT/VolumeRunningTime.pdf>
+Package pdftex.def Info: PolarSphericalDFT/VolumeRunningTime.pdf used on input 
+line 3349.
+(pdftex.def)             Requested size: 372.33147pt x 281.82378pt.
+ [145]
+<PolarSphericalDFT/ThreeDOriginalSurfaceLikeData.pdf, id=3986, 221.80266pt x 28
+8.55405pt>
+File: PolarSphericalDFT/ThreeDOriginalSurfaceLikeData.pdf Graphic file (type pd
+f)
+ <use PolarSphericalDFT/ThreeDOriginalSurfaceLikeData.pdf>
+Package pdftex.def Info: PolarSphericalDFT/ThreeDOriginalSurfaceLikeData.pdf us
+ed on input line 3360.
+(pdftex.def)             Requested size: 155.26079pt x 201.98643pt.
+
+<PolarSphericalDFT/ThreeDOriginalVoxelData.pdf, id=3987, 207.93285pt x 302.8795
+5pt>
+File: PolarSphericalDFT/ThreeDOriginalVoxelData.pdf Graphic file (type pdf)
+ <use PolarSphericalDFT/ThreeDOriginalVoxelData.pdf>
+Package pdftex.def Info: PolarSphericalDFT/ThreeDOriginalVoxelData.pdf used on 
+input line 3361.
+(pdftex.def)             Requested size: 145.55199pt x 212.01422pt.
+
+<PolarSphericalDFT/ThreeDOriginalVoxelDataReconstructed.pdf, id=3988, 226.92278
+pt x 295.28317pt>
+File: PolarSphericalDFT/ThreeDOriginalVoxelDataReconstructed.pdf Graphic file (
+type pdf)
+
+<use PolarSphericalDFT/ThreeDOriginalVoxelDataReconstructed.pdf>
+Package pdftex.def Info: PolarSphericalDFT/ThreeDOriginalVoxelDataReconstructed
+.pdf used on input line 3362.
+(pdftex.def)             Requested size: 158.84485pt x 206.6968pt.
+ [146 <./PolarSphericalDFT/VolumeRunningTime.pdf>] [147 <./PolarSphericalDFT/Th
+reeDOriginalSurfaceLikeData.pdf> <./PolarSphericalDFT/ThreeDOriginalVoxelData.p
+df> <./PolarSphericalDFT/ThreeDOriginalVoxelDataReconstructed.pdf>] [148] [149]
+
+CHAPTER 5:
+Missing character: There is no √ in font ptmri7t!
+Missing character: There is no ß in font ptmri7t!
+[150
+
+] [151]
+Overfull \hbox (0.19537pt too wide) in paragraph at lines 3457--3460
+[]\OT1/ptm/b/n/12 Versatility\OT1/ptm/m/n/12 : The phase cor-re-la-tion tech-ni
+que known as the phase-only matched fil-ter (POMF)
+ []
+
+[152] [153] [154] [155]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3480.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3480.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3483.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3483.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3499.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3499.
+
+[156] [157] [158] [159] [160]
+<RobustRegistration/CubeGrid.pdf, id=4227, 292.36626pt x 304.19246pt>
+File: RobustRegistration/CubeGrid.pdf Graphic file (type pdf)
+
+<use RobustRegistration/CubeGrid.pdf>
+Package pdftex.def Info: RobustRegistration/CubeGrid.pdf used on input line 362
+2.
+(pdftex.def)             Requested size: 204.65498pt x 212.93326pt.
+
+<RobustRegistration/Single18PolarGrid.pdf, id=4228, 287.50212pt x 300.64221pt>
+File: RobustRegistration/Single18PolarGrid.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Single18PolarGrid.pdf>
+Package pdftex.def Info: RobustRegistration/Single18PolarGrid.pdf used on input
+ line 3623.
+(pdftex.def)             Requested size: 201.25009pt x 210.4481pt.
+
+<RobustRegistration/SphericalGridTopView.pdf, id=4229, 306.82028pt x 319.30391p
+t>
+File: RobustRegistration/SphericalGridTopView.pdf Graphic file (type pdf)
+ <use RobustRegistration/SphericalGridTopView.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalGridTopView.pdf used on in
+put line 3624.
+(pdftex.def)             Requested size: 214.77274pt x 223.5112pt.
+
+<RobustRegistration/SphericalGrid.pdf, id=4230, 289.3741pt x 306.19493pt>
+File: RobustRegistration/SphericalGrid.pdf Graphic file (type pdf)
+
+<use RobustRegistration/SphericalGrid.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalGrid.pdf used on input lin
+e 3625.
+(pdftex.def)             Requested size: 231.49959pt x 244.95627pt.
+ [161] [162 <./RobustRegistration/CubeGrid.pdf> <./RobustRegistration/Single18P
+olarGrid.pdf> <./RobustRegistration/SphericalGridTopView.pdf> <./RobustRegistra
+tion/SphericalGrid.pdf>] [163]
+Overfull \hbox (19.80365pt too wide) in paragraph at lines 3646--3649
+\OT1/ptm/m/n/12 gen-eral idea af-ter the above com-pu-ta-tions is to use these 
+two spher-i-cal im-ages $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 H[]\OT1/cmr/m/n/12 
+(\OML/cmm/m/it/12 k; m\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; H[]\OT1/cmr/m/n/12 (\
+OML/cmm/m/it/12 k; m\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 g 2
+ []
+
+
+<RobustRegistration/MultilayeredApproach.pdf, id=4388, 927.38965pt x 386.512pt>
+File: RobustRegistration/MultilayeredApproach.pdf Graphic file (type pdf)
+<use RobustRegistration/MultilayeredApproach.pdf>
+Package pdftex.def Info: RobustRegistration/MultilayeredApproach.pdf used on in
+put line 3652.
+(pdftex.def)             Requested size: 370.9493pt x 154.60205pt.
+ [164 <./RobustRegistration/MultilayeredApproach.pdf>] [165] [166] [167] [168]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3704.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3704.
+
+[169]
+Overfull \hbox (2.19499pt too wide) in paragraph at lines 3737--3738
+[]\OT1/ptm/b/n/12 Input\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Two volumes, $\OML/cmm
+/m/it/12 f[]; f[]$\OT1/pcr/m/n/12 , of size $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 
+N \OT1/cmr/m/n/12 + 1)[]$\OT1/pcr/m/n/12 , where $\OML/cmm/m/it/12 N$ \OT1/pcr/
+m/n/12 is even. For SOFT
+ []
+
+
+Overfull \hbox (46.10852pt too wide) in paragraph at lines 3737--3738
+\OT1/pcr/m/n/12 procedure, the equiangular bandwidth $\OML/cmm/m/it/12 B$\OT1/p
+cr/m/n/12 , where $\OML/cmm/m/it/12 B$ \OT1/pcr/m/n/12 is even, and the degree
+ []
+
+
+Overfull \hbox (15.52695pt too wide) in paragraph at lines 3737--3738
+\OML/cmm/m/it/12 D$ \OT1/pcr/m/n/12 of spherical harmonics to be used internall
+y in the SOFT program.
+ []
+
+
+Overfull \hbox (2.307pt too wide) in paragraph at lines 3737--3738
+\OT1/pcr/m/n/12 For SPFT algorithm, the angular resolution depends on $\OML/cmm
+/m/it/12 B$ \OT1/pcr/m/n/12 i.e. $\OML/cmm/m/it/12 K \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (12.9635pt too wide) in paragraph at lines 3737--3738
+\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 B; M \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 B$ \O
+T1/pcr/m/n/12 for the zenith and azimuth angles respectively, where $\OML/cmm/m
+/it/12 K; M$
+ []
+
+
+Overfull \hbox (9.88129pt too wide) in paragraph at lines 3739--3740
+[]\OT1/ptm/b/n/12 Output\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Global scale factor, 
+$\OML/cmm/m/it/12 s$\OT1/pcr/m/n/12 . Rotational vector, $\OT1/cmr/m/n/12 (\OML
+/cmm/m/it/12 ; ; \OT1/cmr/m/n/12 )$\OT1/pcr/m/n/12 . Finally,
+ []
+
+[170]
+Overfull \hbox (12.81505pt too wide) in paragraph at lines 3743--3744
+[]\OT1/ptm/b/n/12 Step 2\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Compute the scaling $
+\OML/cmm/m/it/12 s$ \OT1/pcr/m/n/12 according to the solution in []. This
+ []
+
+
+Overfull \hbox (10.08446pt too wide) in paragraph at lines 3747--3748
+\OML/cmm/m/it/12 f[]$ \OT1/pcr/m/n/12 and $\OML/cmm/m/it/12 f[]$\OT1/pcr/m/n/12
+ , to obtain the transformed domain spherical structures, $\OML/cmm/m/it/12 F[]
+$
+ []
+
+
+Overfull \hbox (8.42404pt too wide) in paragraph at lines 3749--3750
+[]\OT1/ptm/b/n/12 Step 5\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 For the spectral radi
+us $\OML/cmm/m/it/12 n$\OT1/pcr/m/n/12 , where $\OT1/cmr/m/n/12 1 \OMS/cmsy/m/n
+/12  \OML/cmm/m/it/12 n \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 N=\OT1/cmr/m/n/12 
+2$\OT1/pcr/m/n/12 , do the following. 
+ []
+
+
+Overfull \hbox (1.91347pt too wide) in paragraph at lines 3751--3752
+[]\OT1/ptm/b/n/12 Step 6\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Gather the two spectr
+al magnitude data, $\OML/cmm/m/it/12 H[]$ \OT1/pcr/m/n/12 and $\OML/cmm/m/it/12
+ H[]$ \OT1/pcr/m/n/12 as defined
+ []
+
+
+Overfull \hbox (8.10095pt too wide) in paragraph at lines 3753--3754
+[]\OT1/ptm/b/n/12 Step 7\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Compute the SOFT base
+d correlation of the spherical images $\OML/cmm/m/it/12 H[]$
+ []
+
+
+Overfull \hbox (14.48036pt too wide) in paragraph at lines 3755--3756
+[]\OT1/ptm/b/n/12 Step 8\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Compute the RMSE acco
+rding to the given definition in [] for
+ []
+
+
+Overfull \hbox (14.10225pt too wide) in paragraph at lines 3757--3758
+[]\OT1/ptm/b/n/12 Step 9\OT1/ptm/m/n/12 : \OT1/pcr/m/n/12 Gather the computed e
+stimate at the spectral radius $\OML/cmm/m/it/12 n$ \OT1/pcr/m/n/12 of Euler
+ []
+
+[171]
+Overfull \hbox (5.44481pt too wide) in paragraph at lines 3764--3766
+\OT1/pcr/m/n/12 from the matrix in the \OT1/pcr/b/n/12 Step 9\OT1/pcr/m/n/12 . 
+This gives us the final rotational
+ []
+
+
+Overfull \hbox (12.6448pt too wide) in paragraph at lines 3773--3774
+[]\OT1/pcr/m/n/12 The above step gives us the final translation vector completi
+ng the
+ []
+
+[172] [173] [174]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3806.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3806.
+
+<RobustRegistration/MRIImageXY.pdf, id=4554, 238.27118pt x 282.94809pt>
+File: RobustRegistration/MRIImageXY.pdf Graphic file (type pdf)
+
+<use RobustRegistration/MRIImageXY.pdf>
+Package pdftex.def Info: RobustRegistration/MRIImageXY.pdf used on input line 3
+810.
+(pdftex.def)             Requested size: 123.90172pt x 147.13385pt.
+
+<RobustRegistration/MRIImageYZ.pdf, id=4555, 354.08586pt x 275.74217pt>
+File: RobustRegistration/MRIImageYZ.pdf Graphic file (type pdf)
+
+<use RobustRegistration/MRIImageYZ.pdf>
+Package pdftex.def Info: RobustRegistration/MRIImageYZ.pdf used on input line 3
+811.
+(pdftex.def)             Requested size: 177.04248pt x 137.87074pt.
+
+<RobustRegistration/3DVolumeInputSlices.pdf, id=4558, 603.12926pt x 453.98878pt
+>
+File: RobustRegistration/3DVolumeInputSlices.pdf Graphic file (type pdf)
+ <use RobustRegistration/3DVolumeInputSlices.pdf>
+Package pdftex.def Info: RobustRegistration/3DVolumeInputSlices.pdf used on inp
+ut line 3820.
+(pdftex.def)             Requested size: 241.24742pt x 181.59229pt.
+
+<RobustRegistration/3DVolumeSurface.pdf, id=4559, 255.45135pt x 242.97777pt>
+File: RobustRegistration/3DVolumeSurface.pdf Graphic file (type pdf)
+
+<use RobustRegistration/3DVolumeSurface.pdf>
+Package pdftex.def Info: RobustRegistration/3DVolumeSurface.pdf used on input l
+ine 3821.
+(pdftex.def)             Requested size: 127.72536pt x 121.48857pt.
+
+<RobustRegistration/3DVolumeTransformedSlices.pdf, id=4560, 605.00026pt x 447.6
+6466pt>
+File: RobustRegistration/3DVolumeTransformedSlices.pdf Graphic file (type pdf)
+ <use RobustRegistration/3DVolumeTransformedSlices.pdf>
+Package pdftex.def Info: RobustRegistration/3DVolumeTransformedSlices.pdf used 
+on input line 3822.
+(pdftex.def)             Requested size: 241.99582pt x 179.06268pt.
+
+<RobustRegistration/3DVolumeTransformedSurface.pdf, id=4561, 300.57697pt x 263.
+78549pt>
+File: RobustRegistration/3DVolumeTransformedSurface.pdf Graphic file (type pdf)
+
+ <use RobustRegistration/3DVolumeTransformedSurface.pdf>
+Package pdftex.def Info: RobustRegistration/3DVolumeTransformedSurface.pdf used
+ on input line 3823.
+(pdftex.def)             Requested size: 150.2881pt x 131.89241pt.
+ [175 <./RobustRegistration/MRIImageXY.pdf> <./RobustRegistration/MRIImageYZ.pd
+f>]
+<RobustRegistration/SphericalImage1.pdf, id=4578, 374.2261pt x 288.02806pt>
+File: RobustRegistration/SphericalImage1.pdf Graphic file (type pdf)
+
+<use RobustRegistration/SphericalImage1.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImage1.pdf used on input l
+ine 3832.
+(pdftex.def)             Requested size: 153.43369pt x 118.09227pt.
+
+<RobustRegistration/SphericalImage2.pdf, id=4579, 372.52074pt x 285.13928pt>
+File: RobustRegistration/SphericalImage2.pdf Graphic file (type pdf)
+
+<use RobustRegistration/SphericalImage2.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImage2.pdf used on input l
+ine 3833.
+(pdftex.def)             Requested size: 152.73448pt x 116.90785pt.
+
+<RobustRegistration/SphericalImage3.pdf, id=4580, 365.72937pt x 285.5749pt>
+File: RobustRegistration/SphericalImage3.pdf Graphic file (type pdf)
+
+<use RobustRegistration/SphericalImage3.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImage3.pdf used on input l
+ine 3834.
+(pdftex.def)             Requested size: 149.95pt x 117.08646pt.
+
+<RobustRegistration/SphericalImage1Rotated.pdf, id=4581, 365.29071pt x 284.3483
+3pt>
+File: RobustRegistration/SphericalImage1Rotated.pdf Graphic file (type pdf)
+ <use RobustRegistration/SphericalImage1Rotated.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImage1Rotated.pdf used on 
+input line 3835.
+(pdftex.def)             Requested size: 149.77016pt x 116.58356pt.
+
+<RobustRegistration/SphericalImage2Rotated.pdf, id=4582, 366.60765pt x 284.4828
+3pt>
+File: RobustRegistration/SphericalImage2Rotated.pdf Graphic file (type pdf)
+ <use RobustRegistration/SphericalImage2Rotated.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImage2Rotated.pdf used on 
+input line 3836.
+(pdftex.def)             Requested size: 150.3101pt x 116.6387pt.
+
+<RobustRegistration/SphericalImage3Rotated.pdf, id=4583, 364.85307pt x 285.1372
+7pt>
+File: RobustRegistration/SphericalImage3Rotated.pdf Graphic file (type pdf)
+ <use RobustRegistration/SphericalImage3Rotated.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImage3Rotated.pdf used on 
+input line 3837.
+(pdftex.def)             Requested size: 149.59071pt x 116.90703pt.
+ [176 <./RobustRegistration/3DVolumeInputSlices.pdf> <./RobustRegistration/3DVo
+lumeSurface.pdf> <./RobustRegistration/3DVolumeTransformedSlices.pdf> <./Robust
+Registration/3DVolumeTransformedSurface.pdf>]
+<RobustRegistration/SphericalImageWrapped1Rotated.pdf, id=4620, 397.87846pt x 4
+01.03123pt>
+File: RobustRegistration/SphericalImageWrapped1Rotated.pdf Graphic file (type p
+df)
+ <use RobustRegistration/SphericalImageWrapped1Rotated.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImageWrapped1Rotated.pdf u
+sed on input line 3846.
+(pdftex.def)             Requested size: 151.19537pt x 152.39345pt.
+
+<RobustRegistration/SphericalImageWrapped2Rotated.pdf, id=4621, 305.28554pt x 2
+98.715pt>
+File: RobustRegistration/SphericalImageWrapped2Rotated.pdf Graphic file (type p
+df)
+ <use RobustRegistration/SphericalImageWrapped2Rotated.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImageWrapped2Rotated.pdf u
+sed on input line 3847.
+(pdftex.def)             Requested size: 137.37721pt x 134.42049pt.
+
+<RobustRegistration/SphericalImageWrapped3Rotated.pdf, id=4622, 305.65894pt x 2
+93.39311pt>
+File: RobustRegistration/SphericalImageWrapped3Rotated.pdf Graphic file (type p
+df)
+ <use RobustRegistration/SphericalImageWrapped3Rotated.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImageWrapped3Rotated.pdf u
+sed on input line 3848.
+(pdftex.def)             Requested size: 137.54524pt x 132.02567pt.
+ [177 <./RobustRegistration/SphericalImage1.pdf> <./RobustRegistration/Spherica
+lImage2.pdf> <./RobustRegistration/SphericalImage3.pdf> <./RobustRegistration/S
+phericalImage1Rotated.pdf> <./RobustRegistration/SphericalImage2Rotated.pdf> <.
+/RobustRegistration/SphericalImage3Rotated.pdf>] [178 <./RobustRegistration/Sph
+ericalImageWrapped1Rotated.pdf> <./RobustRegistration/SphericalImageWrapped2Rot
+ated.pdf> <./RobustRegistration/SphericalImageWrapped3Rotated.pdf>]
+<RobustRegistration/BeethhovanBust.pdf, id=15591, 280.1436pt x 277.5158pt>
+File: RobustRegistration/BeethhovanBust.pdf Graphic file (type pdf)
+
+<use RobustRegistration/BeethhovanBust.pdf>
+Package pdftex.def Info: RobustRegistration/BeethhovanBust.pdf used on input li
+ne 3868.
+(pdftex.def)             Requested size: 112.05544pt x 111.00433pt.
+
+<RobustRegistration/Bunny.pdf, id=15592, 281.60107pt x 213.84993pt>
+File: RobustRegistration/Bunny.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Bunny.pdf>
+Package pdftex.def Info: RobustRegistration/Bunny.pdf used on input line 3869.
+(pdftex.def)             Requested size: 112.63843pt x 85.53845pt.
+
+<RobustRegistration/Helicopter.pdf, id=15593, 229.95009pt x 268.93071pt>
+File: RobustRegistration/Helicopter.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Helicopter.pdf>
+Package pdftex.def Info: RobustRegistration/Helicopter.pdf used on input line 3
+870.
+(pdftex.def)             Requested size: 91.9784pt x 107.57037pt.
+
+<RobustRegistration/Horse.pdf, id=15594, 219.43681pt x 258.8571pt>
+File: RobustRegistration/Horse.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Horse.pdf>
+Package pdftex.def Info: RobustRegistration/Horse.pdf used on input line 3871.
+(pdftex.def)             Requested size: 87.77316pt x 103.541pt.
+
+<RobustRegistration/LeavelessTree.pdf, id=15595, 247.15736pt x 263.05379pt>
+File: RobustRegistration/LeavelessTree.pdf Graphic file (type pdf)
+
+<use RobustRegistration/LeavelessTree.pdf>
+Package pdftex.def Info: RobustRegistration/LeavelessTree.pdf used on input lin
+e 3872.
+(pdftex.def)             Requested size: 98.86119pt x 105.21964pt.
+
+<RobustRegistration/PotPlant.pdf, id=15596, 262.7988pt x 268.05544pt>
+File: RobustRegistration/PotPlant.pdf Graphic file (type pdf)
+
+<use RobustRegistration/PotPlant.pdf>
+Package pdftex.def Info: RobustRegistration/PotPlant.pdf used on input line 387
+3.
+(pdftex.def)             Requested size: 105.11765pt x 107.22026pt.
+
+<RobustRegistration/Truck.pdf, id=15597, 198.41428pt x 289.079pt>
+File: RobustRegistration/Truck.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Truck.pdf>
+Package pdftex.def Info: RobustRegistration/Truck.pdf used on input line 3874.
+(pdftex.def)             Requested size: 79.36429pt x 115.62953pt.
+
+<RobustRegistration/Bed.pdf, id=15598, 219.00018pt x 251.8499pt>
+File: RobustRegistration/Bed.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Bed.pdf>
+Package pdftex.def Info: RobustRegistration/Bed.pdf used on input line 3875.
+(pdftex.def)             Requested size: 87.59851pt x 100.73816pt.
+ [179]
+<RobustRegistration/NoiselessFullComparisonFinal.pdf, id=15608, 496.69446pt x 3
+94.20174pt>
+File: RobustRegistration/NoiselessFullComparisonFinal.pdf Graphic file (type pd
+f)
+ <use RobustRegistration/NoiselessFullComparisonFinal.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessFullComparisonFinal.pdf us
+ed on input line 3885.
+(pdftex.def)             Requested size: 248.34662pt x 197.10037pt.
+ [180 <./RobustRegistration/BeethhovanBust.pdf> <./RobustRegistration/Bunny.pdf
+> <./RobustRegistration/Helicopter.pdf> <./RobustRegistration/Horse.pdf> <./Rob
+ustRegistration/LeavelessTree.pdf> <./RobustRegistration/PotPlant.pdf> <./Robus
+tRegistration/Truck.pdf> <./RobustRegistration/Bed.pdf>]
+<RobustRegistration/NoiselessAnomalies1.pdf, id=15681, 436.68535pt x 339.88683p
+t>
+File: RobustRegistration/NoiselessAnomalies1.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomalies1.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomalies1.pdf used on inp
+ut line 3895.
+(pdftex.def)             Requested size: 148.47105pt x 115.55998pt.
+
+<RobustRegistration/NoiselessAnomalies2.pdf, id=15682, 233.89081pt x 322.71767p
+t>
+File: RobustRegistration/NoiselessAnomalies2.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomalies2.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomalies2.pdf used on inp
+ut line 3896.
+(pdftex.def)             Requested size: 79.52182pt x 109.72255pt.
+
+<RobustRegistration/NoiselessAnomalies3.pdf, id=15683, 358.45819pt x 318.51195p
+t>
+File: RobustRegistration/NoiselessAnomalies3.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomalies3.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomalies3.pdf used on inp
+ut line 3897.
+(pdftex.def)             Requested size: 121.87416pt x 108.29262pt.
+
+<RobustRegistration/NoiselessAnomalies4.pdf, id=15684, 313.25632pt x 234.94174p
+t>
+File: RobustRegistration/NoiselessAnomalies4.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomalies4.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomalies4.pdf used on inp
+ut line 3898.
+(pdftex.def)             Requested size: 106.50574pt x 79.87912pt.
+
+<RobustRegistration/NoiselessAnomalies5.pdf, id=15685, 423.6324pt x 324.29457pt
+>
+File: RobustRegistration/NoiselessAnomalies5.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomalies5.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomalies5.pdf used on inp
+ut line 3899.
+(pdftex.def)             Requested size: 144.03311pt x 110.25868pt.
+
+<RobustRegistration/NoiselessAnomalies6.pdf, id=15686, 370.54938pt x 330.47266p
+t>
+File: RobustRegistration/NoiselessAnomalies6.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomalies6.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomalies6.pdf used on inp
+ut line 3900.
+(pdftex.def)             Requested size: 125.9851pt x 112.3592pt.
+
+<RobustRegistration/NoiselessAnomalies7.pdf, id=15687, 332.70398pt x 317.46103p
+t>
+File: RobustRegistration/NoiselessAnomalies7.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomalies7.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomalies7.pdf used on inp
+ut line 3901.
+(pdftex.def)             Requested size: 113.11784pt x 107.93532pt.
+
+<RobustRegistration/NoiselessAnomalies8.pdf, id=15688, 97.76125pt x 319.03793pt
+>
+File: RobustRegistration/NoiselessAnomalies8.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomalies8.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomalies8.pdf used on inp
+ut line 3902.
+(pdftex.def)             Requested size: 33.23837pt x 108.47145pt.
+
+<RobustRegistration/NoiselessAnomaliesResult1.pdf, id=15689, 287.76707pt x 273.
+96956pt>
+File: RobustRegistration/NoiselessAnomaliesResult1.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomaliesResult1.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomaliesResult1.pdf used 
+on input line 3904.
+(pdftex.def)             Requested size: 100.71999pt x 95.89078pt.
+
+<RobustRegistration/NoiselessAnomaliesResult2.pdf, id=15690, 291.05136pt x 267.
+40001pt>
+File: RobustRegistration/NoiselessAnomaliesResult2.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomaliesResult2.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomaliesResult2.pdf used 
+on input line 3905.
+(pdftex.def)             Requested size: 101.86949pt x 93.5914pt.
+
+<RobustRegistration/NoiselessAnomaliesResult3.pdf, id=15691, 310.6285pt x 274.3
+6201pt>
+File: RobustRegistration/NoiselessAnomaliesResult3.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomaliesResult3.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomaliesResult3.pdf used 
+on input line 3906.
+(pdftex.def)             Requested size: 108.72159pt x 96.02814pt.
+
+<RobustRegistration/NoiselessAnomaliesResult4.pdf, id=15692, 375.80501pt x 283.
+16891pt>
+File: RobustRegistration/NoiselessAnomaliesResult4.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomaliesResult4.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomaliesResult4.pdf used 
+on input line 3907.
+(pdftex.def)             Requested size: 131.5337pt x 99.1106pt.
+
+<RobustRegistration/NoiselessAnomaliesResult5.pdf, id=15693, 298.27937pt x 252.
+28955pt>
+File: RobustRegistration/NoiselessAnomaliesResult5.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomaliesResult5.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomaliesResult5.pdf used 
+on input line 3908.
+(pdftex.def)             Requested size: 104.39934pt x 88.30266pt.
+
+<RobustRegistration/NoiselessAnomaliesResult6.pdf, id=15694, 281.19756pt x 283.
+82538pt>
+File: RobustRegistration/NoiselessAnomaliesResult6.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomaliesResult6.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomaliesResult6.pdf used 
+on input line 3909.
+(pdftex.def)             Requested size: 98.42061pt x 99.34036pt.
+
+<RobustRegistration/NoiselessAnomaliesResult7.pdf, id=15695, 315.35918pt x 288.
+20273pt>
+File: RobustRegistration/NoiselessAnomaliesResult7.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomaliesResult7.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomaliesResult7.pdf used 
+on input line 3910.
+(pdftex.def)             Requested size: 110.37735pt x 100.87245pt.
+
+<RobustRegistration/NoiselessAnomaliesResult8.pdf, id=15696, 351.62569pt x 276.
+98982pt>
+File: RobustRegistration/NoiselessAnomaliesResult8.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoiselessAnomaliesResult8.pdf>
+Package pdftex.def Info: RobustRegistration/NoiselessAnomaliesResult8.pdf used 
+on input line 3911.
+(pdftex.def)             Requested size: 123.07083pt x 96.94788pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3912--3912
+[]\OT1/ptm/m/n/12 Figure 5.9: |All the anoma-lies of the PSB test with the ob-j
+ect IDs in
+ []
+
+[181 <./RobustRegistration/NoiselessFullComparisonFinal.pdf>] [182 <./RobustReg
+istration/NoiselessAnomalies1.pdf> <./RobustRegistration/NoiselessAnomalies2.pd
+f> <./RobustRegistration/NoiselessAnomalies3.pdf> <./RobustRegistration/Noisele
+ssAnomalies4.pdf> <./RobustRegistration/NoiselessAnomalies5.pdf> <./RobustRegis
+tration/NoiselessAnomalies6.pdf> <./RobustRegistration/NoiselessAnomalies7.pdf>
+ <./RobustRegistration/NoiselessAnomalies8.pdf> <./RobustRegistration/Noiseless
+AnomaliesResult1.pdf> <./RobustRegistration/NoiselessAnomaliesResult2.pdf> <./R
+obustRegistration/NoiselessAnomaliesResult3.pdf> <./RobustRegistration/Noiseles
+sAnomaliesResult4.pdf> <./RobustRegistration/NoiselessAnomaliesResult5.pdf> <./
+RobustRegistration/NoiselessAnomaliesResult6.pdf> <./RobustRegistration/Noisele
+ssAnomaliesResult7.pdf> <./RobustRegistration/NoiselessAnomaliesResult8.pdf>]
+<RobustRegistration/Dog.pdf, id=15870, 332.443pt x 263.45828pt>
+File: RobustRegistration/Dog.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Dog.pdf>
+Package pdftex.def Info: RobustRegistration/Dog.pdf used on input line 3926.
+(pdftex.def)             Requested size: 166.22108pt x 131.7288pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./RobustRegistration/NoisyDog.pdf): PDF incl
+usion: found PDF version <1.6>, but at most version <1.5> allowed
+<RobustRegistration/NoisyDog.pdf, id=15871, 278.27866pt x 264.86754pt>
+File: RobustRegistration/NoisyDog.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyDog.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyDog.pdf used on input line 392
+7.
+(pdftex.def)             Requested size: 139.13898pt x 132.43344pt.
+
+<RobustRegistration/VoxelizedNoisyOriginalDog.pdf, id=15872, 270.15732pt x 263.
+84975pt>
+File: RobustRegistration/VoxelizedNoisyOriginalDog.pdf Graphic file (type pdf)
+ <use RobustRegistration/VoxelizedNoisyOriginalDog.pdf>
+Package pdftex.def Info: RobustRegistration/VoxelizedNoisyOriginalDog.pdf used 
+on input line 3928.
+(pdftex.def)             Requested size: 135.07832pt x 131.92455pt.
+
+<RobustRegistration/VoxelizedNoisyRotatedDog.pdf, id=15873, 302.74405pt x 252.2
+8755pt>
+File: RobustRegistration/VoxelizedNoisyRotatedDog.pdf Graphic file (type pdf)
+ <use RobustRegistration/VoxelizedNoisyRotatedDog.pdf>
+Package pdftex.def Info: RobustRegistration/VoxelizedNoisyRotatedDog.pdf used o
+n input line 3929.
+(pdftex.def)             Requested size: 151.37164pt x 126.14346pt.
+ [183]
+<RobustRegistration/Original3DSurfaceData.pdf, id=15881, 463.84402pt x 445.4471
+7pt>
+File: RobustRegistration/Original3DSurfaceData.pdf Graphic file (type pdf)
+ <use RobustRegistration/Original3DSurfaceData.pdf>
+Package pdftex.def Info: RobustRegistration/Original3DSurfaceData.pdf used on i
+nput line 3964.
+(pdftex.def)             Requested size: 194.81316pt x 187.08653pt.
+
+<RobustRegistration/Voxelized3DSurfaceData.pdf, id=15882, 450.17265pt x 453.655
+85pt>
+File: RobustRegistration/Voxelized3DSurfaceData.pdf Graphic file (type pdf)
+ <use RobustRegistration/Voxelized3DSurfaceData.pdf>
+Package pdftex.def Info: RobustRegistration/Voxelized3DSurfaceData.pdf used on 
+input line 3965.
+(pdftex.def)             Requested size: 189.07121pt x 190.53415pt.
+
+<RobustRegistration/NoisyVoxelized3DSurfaceData.pdf, id=15883, 460.55893pt x 44
+2.82036pt>
+File: RobustRegistration/NoisyVoxelized3DSurfaceData.pdf Graphic file (type pdf
+)
+ <use RobustRegistration/NoisyVoxelized3DSurfaceData.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyVoxelized3DSurfaceData.pdf use
+d on input line 3966.
+(pdftex.def)             Requested size: 193.43343pt x 185.98328pt.
+
+<RobustRegistration/NoisyTransformedVoxelized3DSurfaceData.pdf, id=15884, 529.4
+1pt x 446.68881pt>
+File: RobustRegistration/NoisyTransformedVoxelized3DSurfaceData.pdf Graphic fil
+e (type pdf)
+
+<use RobustRegistration/NoisyTransformedVoxelized3DSurfaceData.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransformedVoxelized3DSurfaceD
+ata.pdf used on input line 3967.
+(pdftex.def)             Requested size: 222.35068pt x 187.60802pt.
+ [184 <./RobustRegistration/Dog.pdf> <./RobustRegistration/NoisyDog.pdf> <./Rob
+ustRegistration/VoxelizedNoisyOriginalDog.pdf> <./RobustRegistration/VoxelizedN
+oisyRotatedDog.pdf>]
+<RobustRegistration/SphericalImageOriginal_1.pdf, id=15930, 494.06653pt x 386.9
+7473pt>
+File: RobustRegistration/SphericalImageOriginal_1.pdf Graphic file (type pdf)
+ <use RobustRegistration/SphericalImageOriginal_1.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImageOriginal_1.pdf used o
+n input line 3975.
+(pdftex.def)             Requested size: 148.2211pt x 116.0933pt.
+
+<RobustRegistration/SphericalImageNoisyTrans_1.pdf, id=15931, 490.22589pt x 383
+.99661pt>
+File: RobustRegistration/SphericalImageNoisyTrans_1.pdf Graphic file (type pdf)
+
+ <use RobustRegistration/SphericalImageNoisyTrans_1.pdf>
+Package pdftex.def Info: RobustRegistration/SphericalImageNoisyTrans_1.pdf used
+ on input line 3976.
+(pdftex.def)             Requested size: 147.0689pt x 115.19986pt.
+
+<RobustRegistration/NoisyTransReg_1.pdf, id=15932, 405.76483pt x 408.37671pt>
+File: RobustRegistration/NoisyTransReg_1.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_1.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_1.pdf used on input l
+ine 3977.
+(pdftex.def)             Requested size: 129.84738pt x 130.68321pt.
+
+<RobustRegistration/NoisyTransReg_2.pdf, id=15933, 388.34985pt x 390.09138pt>
+File: RobustRegistration/NoisyTransReg_2.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_2.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_2.pdf used on input l
+ine 3978.
+(pdftex.def)             Requested size: 124.27449pt x 124.83179pt.
+
+<RobustRegistration/NoisyTransReg_3.pdf, id=15934, 394.20192pt x 387.6312pt>
+File: RobustRegistration/NoisyTransReg_3.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_3.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_3.pdf used on input l
+ine 3979.
+(pdftex.def)             Requested size: 126.14719pt x 124.04451pt.
+
+<RobustRegistration/NoisyTransReg_4.pdf, id=15935, 395.3154pt x 395.31589pt>
+File: RobustRegistration/NoisyTransReg_4.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_4.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_4.pdf used on input l
+ine 3980.
+(pdftex.def)             Requested size: 126.50351pt x 126.50366pt.
+
+<RobustRegistration/NoisyTransReg_5.pdf, id=15936, 400.54042pt x 393.57439pt>
+File: RobustRegistration/NoisyTransReg_5.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_5.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_5.pdf used on input l
+ine 3981.
+(pdftex.def)             Requested size: 128.17554pt x 125.94637pt.
+
+<RobustRegistration/NoisyTransReg_6.pdf, id=15937, 396.17209pt x 385.00438pt>
+File: RobustRegistration/NoisyTransReg_6.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_6.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_6.pdf used on input l
+ine 3982.
+(pdftex.def)             Requested size: 126.77765pt x 123.2039pt.
+
+<RobustRegistration/NoisyTransReg_7.pdf, id=15938, 382.37555pt x 388.28865pt>
+File: RobustRegistration/NoisyTransReg_7.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_7.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_7.pdf used on input l
+ine 3983.
+(pdftex.def)             Requested size: 122.36267pt x 124.2549pt.
+
+<RobustRegistration/NoisyTransReg_8.pdf, id=15939, 385.66083pt x 390.26001pt>
+File: RobustRegistration/NoisyTransReg_8.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_8.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_8.pdf used on input l
+ine 3984.
+(pdftex.def)             Requested size: 123.41399pt x 124.88574pt.
+
+<RobustRegistration/NoisyTransReg_9.pdf, id=15940, 401.42873pt x 390.26001pt>
+File: RobustRegistration/NoisyTransReg_9.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_9.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_9.pdf used on input l
+ine 3985.
+(pdftex.def)             Requested size: 128.45981pt x 124.88574pt.
+
+<RobustRegistration/NoisyTransReg_10.pdf, id=15941, 397.48701pt x 389.60255pt>
+File: RobustRegistration/NoisyTransReg_10.pdf Graphic file (type pdf)
+
+<use RobustRegistration/NoisyTransReg_10.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyTransReg_10.pdf used on input 
+line 3986.
+(pdftex.def)             Requested size: 127.19844pt x 124.67535pt.
+ [185 <./RobustRegistration/Original3DSurfaceData.pdf> <./RobustRegistration/Vo
+xelized3DSurfaceData.pdf> <./RobustRegistration/NoisyVoxelized3DSurfaceData.pdf
+> <./RobustRegistration/NoisyTransformedVoxelized3DSurfaceData.pdf>]
+Overfull \vbox (18.22397pt too high) has occurred while \output is active []
+
+
+[186 <./RobustRegistration/SphericalImageOriginal_1.pdf> <./RobustRegistration/
+SphericalImageNoisyTrans_1.pdf> <./RobustRegistration/NoisyTransReg_1.pdf> <./R
+obustRegistration/NoisyTransReg_2.pdf> <./RobustRegistration/NoisyTransReg_3.pd
+f> <./RobustRegistration/NoisyTransReg_4.pdf> <./RobustRegistration/NoisyTransR
+eg_5.pdf> <./RobustRegistration/NoisyTransReg_6.pdf> <./RobustRegistration/Nois
+yTransReg_7.pdf> <./RobustRegistration/NoisyTransReg_8.pdf> <./RobustRegistrati
+on/NoisyTransReg_9.pdf> <./RobustRegistration/NoisyTransReg_10.pdf>] [187]
+
+pdfTeX warning: pdflatex.exe (file ./RobustRegistration/3DNoisyVolumeInputSlice
+s.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<RobustRegistration/3DNoisyVolumeInputSlices.pdf, id=52356, 672.26157pt x 677.5
+3125pt>
+File: RobustRegistration/3DNoisyVolumeInputSlices.pdf Graphic file (type pdf)
+ <use RobustRegistration/3DNoisyVolumeInputSlices.pdf>
+Package pdftex.def Info: RobustRegistration/3DNoisyVolumeInputSlices.pdf used o
+n input line 4018.
+(pdftex.def)             Requested size: 134.44992pt x 135.50385pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./RobustRegistration/3DNoisyVolumeSurface.pd
+f): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+<RobustRegistration/3DNoisyVolumeSurface.pdf, id=52357, 563.05174pt x 441.50645
+pt>
+File: RobustRegistration/3DNoisyVolumeSurface.pdf Graphic file (type pdf)
+ <use RobustRegistration/3DNoisyVolumeSurface.pdf>
+Package pdftex.def Info: RobustRegistration/3DNoisyVolumeSurface.pdf used on in
+put line 4019.
+(pdftex.def)             Requested size: 191.43506pt x 150.1102pt.
+
+<RobustRegistration/NoisyVolumeTransReg_1.pdf, id=52358, 378.4338pt x 383.03201
+pt>
+File: RobustRegistration/NoisyVolumeTransReg_1.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoisyVolumeTransReg_1.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyVolumeTransReg_1.pdf used on i
+nput line 4020.
+(pdftex.def)             Requested size: 143.80634pt x 145.55368pt.
+
+<RobustRegistration/NoisyVolumeTransReg_2.pdf, id=52359, 394.44563pt x 384.8668
+5pt>
+File: RobustRegistration/NoisyVolumeTransReg_2.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoisyVolumeTransReg_2.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyVolumeTransReg_2.pdf used on i
+nput line 4021.
+(pdftex.def)             Requested size: 149.89088pt x 146.25092pt.
+
+<RobustRegistration/NoisyVolumeTransReg_3.pdf, id=52360, 392.88783pt x 380.4052
+pt>
+File: RobustRegistration/NoisyVolumeTransReg_3.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoisyVolumeTransReg_3.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyVolumeTransReg_3.pdf used on i
+nput line 4022.
+(pdftex.def)             Requested size: 149.29892pt x 144.55547pt.
+
+<RobustRegistration/NoisyVolumeTransReg_4.pdf, id=52361, 375.14856pt x 385.0033
+7pt>
+File: RobustRegistration/NoisyVolumeTransReg_4.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoisyVolumeTransReg_4.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyVolumeTransReg_4.pdf used on i
+nput line 4023.
+(pdftex.def)             Requested size: 142.55792pt x 146.3028pt.
+
+<RobustRegistration/NoisyVolumeTransReg_5.pdf, id=52362, 375.14856pt x 385.0043
+8pt>
+File: RobustRegistration/NoisyVolumeTransReg_5.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoisyVolumeTransReg_5.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyVolumeTransReg_5.pdf used on i
+nput line 4024.
+(pdftex.def)             Requested size: 142.55792pt x 146.30318pt.
+
+<RobustRegistration/NoisyVolumeTransReg_6.pdf, id=52363, 392.62183pt x 385.2633
+5pt>
+File: RobustRegistration/NoisyVolumeTransReg_6.pdf Graphic file (type pdf)
+ <use RobustRegistration/NoisyVolumeTransReg_6.pdf>
+Package pdftex.def Info: RobustRegistration/NoisyVolumeTransReg_6.pdf used on i
+nput line 4025.
+(pdftex.def)             Requested size: 149.19785pt x 146.40158pt.
+ [188] [189 <./RobustRegistration/3DNoisyVolumeInputSlices.pdf> <./RobustRegist
+ration/3DNoisyVolumeSurface.pdf> <./RobustRegistration/NoisyVolumeTransReg_1.pd
+f> <./RobustRegistration/NoisyVolumeTransReg_2.pdf> <./RobustRegistration/Noisy
+VolumeTransReg_3.pdf> <./RobustRegistration/NoisyVolumeTransReg_4.pdf> <./Robus
+tRegistration/NoisyVolumeTransReg_5.pdf> <./RobustRegistration/NoisyVolumeTrans
+Reg_6.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./RobustRegistration/FrontOverViewCCP.pdf): 
+PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<RobustRegistration/FrontOverViewCCP.pdf, id=74180, 181.1568pt x 120.45pt>
+File: RobustRegistration/FrontOverViewCCP.pdf Graphic file (type pdf)
+
+<use RobustRegistration/FrontOverViewCCP.pdf>
+Package pdftex.def Info: RobustRegistration/FrontOverViewCCP.pdf used on input 
+line 4040.
+(pdftex.def)             Requested size: 135.86725pt x 90.33727pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./RobustRegistration/RobotViewCCP.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<RobustRegistration/RobotViewCCP.pdf, id=74181, 181.1568pt x 120.45pt>
+File: RobustRegistration/RobotViewCCP.pdf Graphic file (type pdf)
+
+<use RobustRegistration/RobotViewCCP.pdf>
+Package pdftex.def Info: RobustRegistration/RobotViewCCP.pdf used on input line
+ 4041.
+(pdftex.def)             Requested size: 135.86725pt x 90.33727pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./RobustRegistration/CloseUpFrontCCP.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<RobustRegistration/CloseUpFrontCCP.pdf, id=74182, 181.1568pt x 120.45pt>
+File: RobustRegistration/CloseUpFrontCCP.pdf Graphic file (type pdf)
+
+<use RobustRegistration/CloseUpFrontCCP.pdf>
+Package pdftex.def Info: RobustRegistration/CloseUpFrontCCP.pdf used on input l
+ine 4042.
+(pdftex.def)             Requested size: 135.86725pt x 90.33727pt.
+
+<RobustRegistration/Scan12.pdf, id=74183, 432.56767pt x 323.76859pt>
+File: RobustRegistration/Scan12.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Scan12.pdf>
+Package pdftex.def Info: RobustRegistration/Scan12.pdf used on input line 4043.
+
+(pdftex.def)             Requested size: 224.93648pt x 168.36063pt.
+
+<RobustRegistration/Scan13.pdf, id=74184, 426.2867pt x 322.59523pt>
+File: RobustRegistration/Scan13.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Scan13.pdf>
+Package pdftex.def Info: RobustRegistration/Scan13.pdf used on input line 4044.
+
+(pdftex.def)             Requested size: 221.67035pt x 167.75047pt.
+ [190] [191 <./RobustRegistration/FrontOverViewCCP.pdf> <./RobustRegistration/R
+obotViewCCP.pdf> <./RobustRegistration/CloseUpFrontCCP.pdf> <./RobustRegistrati
+on/Scan12.pdf> <./RobustRegistration/Scan13.pdf>]
+<RobustRegistration/Scan12CloseUpRegistered.pdf, id=74228, 434.27856pt x 317.33
+255pt>
+File: RobustRegistration/Scan12CloseUpRegistered.pdf Graphic file (type pdf)
+ <use RobustRegistration/Scan12CloseUpRegistered.pdf>
+Package pdftex.def Info: RobustRegistration/Scan12CloseUpRegistered.pdf used on
+ input line 4054.
+(pdftex.def)             Requested size: 165.02756pt x 120.58762pt.
+
+<RobustRegistration/Scan13CloseUpFixed.pdf, id=74229, 424.68341pt x 304.84691pt
+>
+File: RobustRegistration/Scan13CloseUpFixed.pdf Graphic file (type pdf)
+ <use RobustRegistration/Scan13CloseUpFixed.pdf>
+Package pdftex.def Info: RobustRegistration/Scan13CloseUpFixed.pdf used on inpu
+t line 4055.
+(pdftex.def)             Requested size: 161.38136pt x 115.84302pt.
+
+<RobustRegistration/Scan12_13CloseUpRegistered.pdf, id=74230, 426.3951pt x 275.
+28447pt>
+File: RobustRegistration/Scan12_13CloseUpRegistered.pdf Graphic file (type pdf)
+
+ <use RobustRegistration/Scan12_13CloseUpRegistered.pdf>
+Package pdftex.def Info: RobustRegistration/Scan12_13CloseUpRegistered.pdf used
+ on input line 4056.
+(pdftex.def)             Requested size: 230.24992pt x 148.65138pt.
+ [192 <./RobustRegistration/Scan12CloseUpRegistered.pdf> <./RobustRegistration/
+Scan13CloseUpFixed.pdf> <./RobustRegistration/Scan12_13CloseUpRegistered.pdf>]
+<RobustRegistration/ProblemScan12_13CloseUpImRegister.pdf, id=74264, 419.95285p
+t x 305.89784pt>
+File: RobustRegistration/ProblemScan12_13CloseUpImRegister.pdf Graphic file (ty
+pe pdf)
+
+<use RobustRegistration/ProblemScan12_13CloseUpImRegister.pdf>
+Package pdftex.def Info: RobustRegistration/ProblemScan12_13CloseUpImRegister.p
+df used on input line 4066.
+(pdftex.def)             Requested size: 230.97478pt x 168.24432pt.
+
+<RobustRegistration/ProblemScan12_13CloseUpICP.pdf, id=74265, 423.7666pt x 314.
+04828pt>
+File: RobustRegistration/ProblemScan12_13CloseUpICP.pdf Graphic file (type pdf)
+
+ <use RobustRegistration/ProblemScan12_13CloseUpICP.pdf>
+Package pdftex.def Info: RobustRegistration/ProblemScan12_13CloseUpICP.pdf used
+ on input line 4067.
+(pdftex.def)             Requested size: 233.07234pt x 172.72708pt.
+
+<RobustRegistration/Scan13_14CloseUpDirectRegistered.pdf, id=74266, 422.23105pt
+ x 303.09537pt>
+File: RobustRegistration/Scan13_14CloseUpDirectRegistered.pdf Graphic file (typ
+e pdf)
+ <use RobustRegistration/Scan13_14CloseUpDirectRegistered.pdf>
+Package pdftex.def Info: RobustRegistration/Scan13_14CloseUpDirectRegistered.pd
+f used on input line 4075.
+(pdftex.def)             Requested size: 244.89417pt x 175.79543pt.
+
+<RobustRegistration/Scan13_14CloseUpIntensityRegistered.pdf, id=74267, 423.1073
+3pt x 304.40927pt>
+File: RobustRegistration/Scan13_14CloseUpIntensityRegistered.pdf Graphic file (
+type pdf)
+
+<use RobustRegistration/Scan13_14CloseUpIntensityRegistered.pdf>
+Package pdftex.def Info: RobustRegistration/Scan13_14CloseUpIntensityRegistered
+.pdf used on input line 4076.
+(pdftex.def)             Requested size: 245.40242pt x 176.55748pt.
+
+<RobustRegistration/Scan13_14CloseUpICPRegistered.pdf, id=74268, 427.7086pt x 2
+96.96545pt>
+File: RobustRegistration/Scan13_14CloseUpICPRegistered.pdf Graphic file (type p
+df)
+ <use RobustRegistration/Scan13_14CloseUpICPRegistered.pdf>
+Package pdftex.def Info: RobustRegistration/Scan13_14CloseUpICPRegistered.pdf u
+sed on input line 4077.
+(pdftex.def)             Requested size: 248.07115pt x 172.24008pt.
+ [193 <./RobustRegistration/ProblemScan12_13CloseUpImRegister.pdf> <./RobustReg
+istration/ProblemScan12_13CloseUpICP.pdf>]
+Overfull \vbox (4.79797pt too high) has occurred while \output is active []
+
+
+[194 <./RobustRegistration/Scan13_14CloseUpDirectRegistered.pdf> <./RobustRegis
+tration/Scan13_14CloseUpIntensityRegistered.pdf> <./RobustRegistration/Scan13_1
+4CloseUpICPRegistered.pdf>]
+<RobustRegistration/IntegratedPlotOf30ScansSurfaceData.pdf, id=74381, 427.92542
+pt x 315.36018pt>
+File: RobustRegistration/IntegratedPlotOf30ScansSurfaceData.pdf Graphic file (t
+ype pdf)
+
+<use RobustRegistration/IntegratedPlotOf30ScansSurfaceData.pdf>
+Package pdftex.def Info: RobustRegistration/IntegratedPlotOf30ScansSurfaceData.
+pdf used on input line 4110.
+(pdftex.def)             Requested size: 213.96217pt x 157.6797pt.
+
+<RobustRegistration/IntegratedPlotOf30ScansPointCloud.pdf, id=74382, 407.63893p
+t x 238.45186pt>
+File: RobustRegistration/IntegratedPlotOf30ScansPointCloud.pdf Graphic file (ty
+pe pdf)
+
+<use RobustRegistration/IntegratedPlotOf30ScansPointCloud.pdf>
+Package pdftex.def Info: RobustRegistration/IntegratedPlotOf30ScansPointCloud.p
+df used on input line 4111.
+(pdftex.def)             Requested size: 244.58524pt x 143.0722pt.
+ [195]
+<RobustRegistration/Scan1.pdf, id=74388, 386.84023pt x 219.7008pt>
+File: RobustRegistration/Scan1.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Scan1.pdf>
+Package pdftex.def Info: RobustRegistration/Scan1.pdf used on input line 4120.
+(pdftex.def)             Requested size: 154.73334pt x 87.87875pt.
+
+<RobustRegistration/Scan2.pdf, id=74389, 390.60732pt x 245.2653pt>
+File: RobustRegistration/Scan2.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Scan2.pdf>
+Package pdftex.def Info: RobustRegistration/Scan2.pdf used on input line 4121.
+(pdftex.def)             Requested size: 156.24014pt x 98.10439pt.
+
+<RobustRegistration/Scan35.pdf, id=74390, 368.79582pt x 179.5789pt>
+File: RobustRegistration/Scan35.pdf Graphic file (type pdf)
+
+<use RobustRegistration/Scan35.pdf>
+Package pdftex.def Info: RobustRegistration/Scan35.pdf used on input line 4122.
+
+(pdftex.def)             Requested size: 147.51572pt x 71.83028pt.
+
+<RobustRegistration/Scan1-2FailedRegistration.pdf, id=74391, 426.6109pt x 318.8
+6327pt>
+File: RobustRegistration/Scan1-2FailedRegistration.pdf Graphic file (type pdf)
+ <use RobustRegistration/Scan1-2FailedRegistration.pdf>
+Package pdftex.def Info: RobustRegistration/Scan1-2FailedRegistration.pdf used 
+on input line 4123.
+(pdftex.def)             Requested size: 204.77089pt x 153.05261pt.
+
+<RobustRegistration/Scan35-1FailedRegistration.pdf, id=74392, 422.58095pt x 313
+.78227pt>
+File: RobustRegistration/Scan35-1FailedRegistration.pdf Graphic file (type pdf)
+
+ <use RobustRegistration/Scan35-1FailedRegistration.pdf>
+Package pdftex.def Info: RobustRegistration/Scan35-1FailedRegistration.pdf used
+ on input line 4124.
+(pdftex.def)             Requested size: 202.83655pt x 150.61377pt.
+ [196 <./RobustRegistration/IntegratedPlotOf30ScansSurfaceData.pdf> <./RobustRe
+gistration/IntegratedPlotOf30ScansPointCloud.pdf>]
+<RobustRegistration/OriginalBunnyObject.pdf, id=74443, 254.2599pt x 234.55028pt
+>
+File: RobustRegistration/OriginalBunnyObject.pdf Graphic file (type pdf)
+ <use RobustRegistration/OriginalBunnyObject.pdf>
+Package pdftex.def Info: RobustRegistration/OriginalBunnyObject.pdf used on inp
+ut line 4145.
+(pdftex.def)             Requested size: 127.12964pt x 117.27484pt.
+
+<RobustRegistration/OriginalBunnyObject_pointCloud.pdf, id=74444, 287.7681pt x 
+285.79674pt>
+File: RobustRegistration/OriginalBunnyObject_pointCloud.pdf Graphic file (type 
+pdf)
+ <use RobustRegistration/OriginalBunnyObject_pointCloud.pdf>
+Package pdftex.def Info: RobustRegistration/OriginalBunnyObject_pointCloud.pdf 
+used on input line 4146.
+(pdftex.def)             Requested size: 143.88368pt x 142.89801pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./RobustRegistration/RotatedPartialBunnyObje
+ct.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allo
+wed
+
+<RobustRegistration/RotatedPartialBunnyObject.pdf, id=74445, 306.16382pt x 260.
+17299pt>
+File: RobustRegistration/RotatedPartialBunnyObject.pdf Graphic file (type pdf)
+ <use RobustRegistration/RotatedPartialBunnyObject.pdf>
+Package pdftex.def Info: RobustRegistration/RotatedPartialBunnyObject.pdf used 
+on input line 4147.
+(pdftex.def)             Requested size: 153.08153pt x 130.08617pt.
+
+<RobustRegistration/RotatedPartialBunnyObject_pointCloud.pdf, id=74446, 284.975
+68pt x 254.48776pt>
+File: RobustRegistration/RotatedPartialBunnyObject_pointCloud.pdf Graphic file 
+(type pdf)
+
+<use RobustRegistration/RotatedPartialBunnyObject_pointCloud.pdf>
+Package pdftex.def Info: RobustRegistration/RotatedPartialBunnyObject_pointClou
+d.pdf used on input line 4148.
+(pdftex.def)             Requested size: 142.48747pt x 127.24356pt.
+
+<RobustRegistration/GoICPBunnyResults.pdf, id=74447, 410.62709pt x 261.48692pt>
+File: RobustRegistration/GoICPBunnyResults.pdf Graphic file (type pdf)
+<use RobustRegistration/GoICPBunnyResults.pdf>
+Package pdftex.def Info: RobustRegistration/GoICPBunnyResults.pdf used on input
+ line 4149.
+(pdftex.def)             Requested size: 287.437pt x 183.03958pt.
+ [197 <./RobustRegistration/Scan1.pdf> <./RobustRegistration/Scan2.pdf> <./Robu
+stRegistration/Scan35.pdf> <./RobustRegistration/Scan1-2FailedRegistration.pdf>
+ <./RobustRegistration/Scan35-1FailedRegistration.pdf>]
+<RobustRegistration/FinalProposedMethodBunnyResults.pdf, id=74492, 379.74774pt 
+x 311.41948pt>
+File: RobustRegistration/FinalProposedMethodBunnyResults.pdf Graphic file (type
+ pdf)
+ <use RobustRegistration/FinalProposedMethodBunnyResults.pdf>
+Package pdftex.def Info: RobustRegistration/FinalProposedMethodBunnyResults.pdf
+ used on input line 4157.
+(pdftex.def)             Requested size: 303.79858pt x 249.13591pt.
+
+[198 <./RobustRegistration/OriginalBunnyObject.pdf> <./RobustRegistration/Origi
+nalBunnyObject_pointCloud.pdf> <./RobustRegistration/RotatedPartialBunnyObject.
+pdf> <./RobustRegistration/RotatedPartialBunnyObject_pointCloud.pdf> <./RobustR
+egistration/GoICPBunnyResults.pdf>] [199 <./RobustRegistration/FinalProposedMet
+hodBunnyResults.pdf>] [200]
+<RobustRegistration/GoICPvsOursSpeed.pdf, id=74603, 375.14856pt x 302.2211pt>
+File: RobustRegistration/GoICPvsOursSpeed.pdf Graphic file (type pdf)
+
+<use RobustRegistration/GoICPvsOursSpeed.pdf>
+Package pdftex.def Info: RobustRegistration/GoICPvsOursSpeed.pdf used on input 
+line 4182.
+(pdftex.def)             Requested size: 225.09087pt x 181.33405pt.
+
+<RobustRegistration/GoICPvsOursAccuracy.pdf, id=74604, 378.43082pt x 300.11623p
+t>
+File: RobustRegistration/GoICPvsOursAccuracy.pdf Graphic file (type pdf)
+ <use RobustRegistration/GoICPvsOursAccuracy.pdf>
+Package pdftex.def Info: RobustRegistration/GoICPvsOursAccuracy.pdf used on inp
+ut line 4183.
+(pdftex.def)             Requested size: 227.06023pt x 180.0711pt.
+ [201 <./RobustRegistration/GoICPvsOursSpeed.pdf> <./RobustRegistration/GoICPvs
+OursAccuracy.pdf>] [202]
+[203]
+CHAPTER 6:
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+[204
+
+] [205] [206] [207] [208] [209]
+<FVR/FullVolume.pdf, id=74774, 300.64221pt x 300.11623pt>
+File: FVR/FullVolume.pdf Graphic file (type pdf)
+
+<use FVR/FullVolume.pdf>
+Package pdftex.def Info: FVR/FullVolume.pdf used on input line 4288.
+(pdftex.def)             Requested size: 150.32072pt x 150.05774pt.
+
+<FVR/TopViewSingleSliceGrid.pdf, id=74775, 300.11623pt x 309.57658pt>
+File: FVR/TopViewSingleSliceGrid.pdf Graphic file (type pdf)
+
+<use FVR/TopViewSingleSliceGrid.pdf>
+Package pdftex.def Info: FVR/TopViewSingleSliceGrid.pdf used on input line 4289
+.
+(pdftex.def)             Requested size: 150.05774pt x 154.7879pt.
+
+<FVR/FlatSingleSliceGrid.pdf, id=74776, 374.4911pt x 287.76707pt>
+File: FVR/FlatSingleSliceGrid.pdf Graphic file (type pdf)
+
+<use FVR/FlatSingleSliceGrid.pdf>
+Package pdftex.def Info: FVR/FlatSingleSliceGrid.pdf used on input line 4290.
+(pdftex.def)             Requested size: 187.24509pt x 143.88318pt.
+
+<FVR/ComplementarySlices.pdf, id=74777, 417.85008pt x 313.7813pt>
+File: FVR/ComplementarySlices.pdf Graphic file (type pdf)
+
+<use FVR/ComplementarySlices.pdf>
+Package pdftex.def Info: FVR/ComplementarySlices.pdf used on input line 4291.
+(pdftex.def)             Requested size: 208.92451pt x 156.89026pt.
+ [210 <./FVR/FullVolume.pdf> <./FVR/TopViewSingleSliceGrid.pdf> <./FVR/FlatSing
+leSliceGrid.pdf> <./FVR/ComplementarySlices.pdf>] [211] [212] [213]
+<FVR/DCFTVolumeFull.pdf, id=74958, 369.8929pt x 388.9451pt>
+File: FVR/DCFTVolumeFull.pdf Graphic file (type pdf)
+
+<use FVR/DCFTVolumeFull.pdf>
+Package pdftex.def Info: FVR/DCFTVolumeFull.pdf used on input line 4357.
+(pdftex.def)             Requested size: 118.36813pt x 124.46497pt.
+
+<FVR/DCFTVolumeTopView.pdf, id=74959, 407.31975pt x 406.3712pt>
+File: FVR/DCFTVolumeTopView.pdf Graphic file (type pdf)
+
+<use FVR/DCFTVolumeTopView.pdf>
+Package pdftex.def Info: FVR/DCFTVolumeTopView.pdf used on input line 4358.
+(pdftex.def)             Requested size: 122.19685pt x 121.9123pt.
+ [214 <./FVR/DCFTVolumeFull.pdf> <./FVR/DCFTVolumeTopView.pdf>] <FVR/ExactSlice
+.pdf, id=74992, 410.7917pt x 557.18663pt>
+File: FVR/ExactSlice.pdf Graphic file (type pdf)
+
+<use FVR/ExactSlice.pdf>
+Package pdftex.def Info: FVR/ExactSlice.pdf used on input line 4373.
+(pdftex.def)             Requested size: 205.39534pt x 278.59264pt.
+
+<FVR/InterpolatedSlice.pdf, id=74993, 408.13017pt x 556.29933pt>
+File: FVR/InterpolatedSlice.pdf Graphic file (type pdf)
+
+<use FVR/InterpolatedSlice.pdf>
+Package pdftex.def Info: FVR/InterpolatedSlice.pdf used on input line 4374.
+(pdftex.def)             Requested size: 204.06459pt x 278.14899pt.
+
+<FVR/ExactSliceColor.pdf, id=74994, 370.02141pt x 296.96245pt>
+File: FVR/ExactSliceColor.pdf Graphic file (type pdf)
+
+<use FVR/ExactSliceColor.pdf>
+Package pdftex.def Info: FVR/ExactSliceColor.pdf used on input line 4383.
+(pdftex.def)             Requested size: 185.01024pt x 148.48085pt.
+
+<FVR/InterpolatedSliceColor.pdf, id=74995, 386.84023pt x 294.8606pt>
+File: FVR/InterpolatedSliceColor.pdf Graphic file (type pdf)
+
+<use FVR/InterpolatedSliceColor.pdf>
+Package pdftex.def Info: FVR/InterpolatedSliceColor.pdf used on input line 4384
+.
+(pdftex.def)             Requested size: 193.41963pt x 147.42993pt.
+ [215 <./FVR/ExactSlice.pdf> <./FVR/InterpolatedSlice.pdf>] <FVR/CompSlice0.pdf
+, id=75028, 332.443pt x 344.2702pt>
+File: FVR/CompSlice0.pdf Graphic file (type pdf)
+
+<use FVR/CompSlice0.pdf>
+Package pdftex.def Info: FVR/CompSlice0.pdf used on input line 4393.
+(pdftex.def)             Requested size: 166.22108pt x 172.13467pt.
+
+<FVR/CompSlice23.pdf, id=75029, 332.443pt x 343.61275pt>
+File: FVR/CompSlice23.pdf Graphic file (type pdf)
+
+<use FVR/CompSlice23.pdf>
+Package pdftex.def Info: FVR/CompSlice23.pdf used on input line 4394.
+(pdftex.def)             Requested size: 166.22108pt x 171.80594pt.
+
+<FVR/CompSlice45.pdf, id=75030, 330.60112pt x 337.95961pt>
+File: FVR/CompSlice45.pdf Graphic file (type pdf)
+
+<use FVR/CompSlice45.pdf>
+Package pdftex.def Info: FVR/CompSlice45.pdf used on input line 4395.
+(pdftex.def)             Requested size: 165.30014pt x 168.97939pt.
+
+<FVR/CompSlice68.pdf, id=75031, 326.39642pt x 340.58743pt>
+File: FVR/CompSlice68.pdf Graphic file (type pdf)
+
+<use FVR/CompSlice68.pdf>
+Package pdftex.def Info: FVR/CompSlice68.pdf used on input line 4396.
+(pdftex.def)             Requested size: 163.1978pt x 170.29329pt.
+
+<FVR/CompSlice90.pdf, id=75032, 327.9733pt x 340.58743pt>
+File: FVR/CompSlice90.pdf Graphic file (type pdf)
+
+<use FVR/CompSlice90.pdf>
+Package pdftex.def Info: FVR/CompSlice90.pdf used on input line 4397.
+(pdftex.def)             Requested size: 163.98624pt x 170.29329pt.
+
+<FVR/CompSlice113.pdf, id=75033, 330.07614pt x 339.01053pt>
+File: FVR/CompSlice113.pdf Graphic file (type pdf)
+
+<use FVR/CompSlice113.pdf>
+Package pdftex.def Info: FVR/CompSlice113.pdf used on input line 4398.
+(pdftex.def)             Requested size: 165.03766pt x 169.50484pt.
+ [216 <./FVR/ExactSliceColor.pdf> <./FVR/InterpolatedSliceColor.pdf>] <FVR/Comp
+CT_2Slice0.pdf, id=75074, 328.50127pt x 335.07082pt>
+File: FVR/CompCT_2Slice0.pdf Graphic file (type pdf)
+
+<use FVR/CompCT_2Slice0.pdf>
+Package pdftex.def Info: FVR/CompCT_2Slice0.pdf used on input line 4406.
+(pdftex.def)             Requested size: 164.25023pt x 167.53499pt.
+
+<FVR/CompCT_2Slice23.pdf, id=75075, 324.29457pt x 335.85776pt>
+File: FVR/CompCT_2Slice23.pdf Graphic file (type pdf)
+
+<use FVR/CompCT_2Slice23.pdf>
+Package pdftex.def Info: FVR/CompCT_2Slice23.pdf used on input line 4407.
+(pdftex.def)             Requested size: 162.14688pt x 167.92845pt.
+
+<FVR/CompCT_2Slice45.pdf, id=75076, 326.5299pt x 339.01357pt>
+File: FVR/CompCT_2Slice45.pdf Graphic file (type pdf)
+
+<use FVR/CompCT_2Slice45.pdf>
+Package pdftex.def Info: FVR/CompCT_2Slice45.pdf used on input line 4408.
+(pdftex.def)             Requested size: 163.26454pt x 169.50636pt.
+
+<FVR/CompCT_2Slice68.pdf, id=75077, 325.87144pt x 334.80684pt>
+File: FVR/CompCT_2Slice68.pdf Graphic file (type pdf)
+
+<use FVR/CompCT_2Slice68.pdf>
+Package pdftex.def Info: FVR/CompCT_2Slice68.pdf used on input line 4409.
+(pdftex.def)             Requested size: 162.93532pt x 167.403pt.
+
+<FVR/CompCT_2Slice90.pdf, id=75078, 329.5502pt x 336.38274pt>
+File: FVR/CompCT_2Slice90.pdf Graphic file (type pdf)
+
+<use FVR/CompCT_2Slice90.pdf>
+Package pdftex.def Info: FVR/CompCT_2Slice90.pdf used on input line 4410.
+(pdftex.def)             Requested size: 164.77469pt x 168.19095pt.
+
+<FVR/CompCT_2Slice113.pdf, id=75079, 329.8152pt x 341.64136pt>
+File: FVR/CompCT_2Slice113.pdf Graphic file (type pdf)
+
+<use FVR/CompCT_2Slice113.pdf>
+Package pdftex.def Info: FVR/CompCT_2Slice113.pdf used on input line 4411.
+(pdftex.def)             Requested size: 164.9072pt x 170.82025pt.
+ [217 <./FVR/CompSlice0.pdf> <./FVR/CompSlice23.pdf> <./FVR/CompSlice45.pdf> <.
+/FVR/CompSlice68.pdf> <./FVR/CompSlice90.pdf> <./FVR/CompSlice113.pdf>]
+<FVR/FootSlice0.pdf, id=75162, 320.6148pt x 334.80582pt>
+File: FVR/FootSlice0.pdf Graphic file (type pdf)
+
+<use FVR/FootSlice0.pdf>
+Package pdftex.def Info: FVR/FootSlice0.pdf used on input line 4419.
+(pdftex.def)             Requested size: 160.307pt x 167.4025pt.
+
+<FVR/FootSlice23.pdf, id=75163, 326.92236pt x 338.48457pt>
+File: FVR/FootSlice23.pdf Graphic file (type pdf)
+
+<use FVR/FootSlice23.pdf>
+Package pdftex.def Info: FVR/FootSlice23.pdf used on input line 4420.
+(pdftex.def)             Requested size: 163.46078pt x 169.24187pt.
+
+<FVR/FootSlice45.pdf, id=75164, 322.19171pt x 333.22894pt>
+File: FVR/FootSlice45.pdf Graphic file (type pdf)
+
+<use FVR/FootSlice45.pdf>
+Package pdftex.def Info: FVR/FootSlice45.pdf used on input line 4421.
+(pdftex.def)             Requested size: 161.09546pt x 166.61406pt.
+
+<FVR/FootSlice68.pdf, id=75165, 322.71767pt x 336.38274pt>
+File: FVR/FootSlice68.pdf Graphic file (type pdf)
+
+<use FVR/FootSlice68.pdf>
+Package pdftex.def Info: FVR/FootSlice68.pdf used on input line 4422.
+(pdftex.def)             Requested size: 161.35843pt x 168.19095pt.
+
+<FVR/FootSlice90.pdf, id=75166, 330.47266pt x 338.35611pt>
+File: FVR/FootSlice90.pdf Graphic file (type pdf)
+
+<use FVR/FootSlice90.pdf>
+Package pdftex.def Info: FVR/FootSlice90.pdf used on input line 4423.
+(pdftex.def)             Requested size: 165.23592pt x 169.17763pt.
+
+<FVR/FootSlice113.pdf, id=75167, 323.24365pt x 336.90767pt>
+File: FVR/FootSlice113.pdf Graphic file (type pdf)
+
+<use FVR/FootSlice113.pdf>
+Package pdftex.def Info: FVR/FootSlice113.pdf used on input line 4424.
+(pdftex.def)             Requested size: 161.62143pt x 168.45341pt.
+ [218 <./FVR/CompCT_2Slice0.pdf> <./FVR/CompCT_2Slice23.pdf> <./FVR/CompCT_2Sli
+ce45.pdf> <./FVR/CompCT_2Slice68.pdf> <./FVR/CompCT_2Slice90.pdf> <./FVR/CompCT
+_2Slice113.pdf>] [219 <./FVR/FootSlice0.pdf> <./FVR/FootSlice23.pdf> <./FVR/Foo
+tSlice45.pdf> <./FVR/FootSlice68.pdf> <./FVR/FootSlice90.pdf> <./FVR/FootSlice1
+13.pdf>]
+<SparseViewCT/OriginalPhantom.pdf, id=75335, 198.6331pt x 197.10036pt>
+File: SparseViewCT/OriginalPhantom.pdf Graphic file (type pdf)
+
+<use SparseViewCT/OriginalPhantom.pdf>
+Package pdftex.def Info: SparseViewCT/OriginalPhantom.pdf used on input line 44
+53.
+(pdftex.def)             Requested size: 99.3163pt x 98.54993pt.
+
+<SparseViewCT/PolarSampling.pdf, id=75336, 276.37755pt x 282.07082pt>
+File: SparseViewCT/PolarSampling.pdf Graphic file (type pdf)
+
+<use SparseViewCT/PolarSampling.pdf>
+Package pdftex.def Info: SparseViewCT/PolarSampling.pdf used on input line 4454
+.
+(pdftex.def)             Requested size: 82.9139pt x 84.62189pt.
+
+<SparseViewCT/Recons_NUFFT_ADTVM.pdf, id=75337, 196.21104pt x 194.51068pt>
+File: SparseViewCT/Recons_NUFFT_ADTVM.pdf Graphic file (type pdf)
+
+<use SparseViewCT/Recons_NUFFT_ADTVM.pdf>
+Package pdftex.def Info: SparseViewCT/Recons_NUFFT_ADTVM.pdf used on input line
+ 4455.
+(pdftex.def)             Requested size: 100.0663pt x 99.19913pt.
+
+<SparseViewCT/Recons_ExactPolar_ADTVM.pdf, id=75338, 196.87654pt x 192.25125pt>
+File: SparseViewCT/Recons_ExactPolar_ADTVM.pdf Graphic file (type pdf)
+<use SparseViewCT/Recons_ExactPolar_ADTVM.pdf>
+Package pdftex.def Info: SparseViewCT/Recons_ExactPolar_ADTVM.pdf used on input
+ line 4456.
+(pdftex.def)             Requested size: 102.37639pt x 99.97122pt.
+
+<SparseViewCT/Error_Recons_NUFFT_ADTVM.pdf, id=75339, 360.17462pt x 277.69447pt
+>
+File: SparseViewCT/Error_Recons_NUFFT_ADTVM.pdf Graphic file (type pdf)
+ <use SparseViewCT/Error_Recons_NUFFT_ADTVM.pdf>
+Package pdftex.def Info: SparseViewCT/Error_Recons_NUFFT_ADTVM.pdf used on inpu
+t line 4457.
+(pdftex.def)             Requested size: 108.0532pt x 83.30898pt.
+
+<SparseViewCT/Error_Recons_ExactPolar_ADTVM.pdf, id=75340, 368.65329pt x 276.77
+202pt>
+File: SparseViewCT/Error_Recons_ExactPolar_ADTVM.pdf Graphic file (type pdf)
+ <use SparseViewCT/Error_Recons_ExactPolar_ADTVM.pdf>
+Package pdftex.def Info: SparseViewCT/Error_Recons_ExactPolar_ADTVM.pdf used on
+ input line 4458.
+(pdftex.def)             Requested size: 110.59683pt x 83.03224pt.
+ [220] [221 <./SparseViewCT/OriginalPhantom.pdf> <./SparseViewCT/PolarSampling.
+pdf> <./SparseViewCT/Recons_NUFFT_ADTVM.pdf> <./SparseViewCT/Recons_ExactPolar_
+ADTVM.pdf> <./SparseViewCT/Error_Recons_NUFFT_ADTVM.pdf> <./SparseViewCT/Error_
+Recons_ExactPolar_ADTVM.pdf>] [222] [223]
+Overfull \hbox (2.3209pt too wide) in paragraph at lines 4482--4483
+\OT1/ptm/m/n/12 erned by anisotropic fea-tures such as edges in im-ages have be
+en pro-posed. Ap-pli-ca-tions of curvelets
+ []
+
+[224] [225] [226] [227] [228]
+CHAPTER 7:
+[229
+
+] [230] [231]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+ [232
+
+
+]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ô in font ptmri7t!
+ [233] [234] [235] [236] [237] [238] [239] [240]
+[241] [242]
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no ∂ in font ptmr7t!
+ [243] [244] [245]
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no ∂ in font ptmr7t!
+ [246] [247] [248]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Underfull \hbox (badness 2486) in paragraph at lines 5233--5234
+[]\OT1/ptm/m/n/12 Horner JL, Gi-an-ino PD. Phase-only matched fil-ter-ing. Ap-p
+lied op-tics. 1984 Mar
+ []
+
+[249] [250]
+Underfull \hbox (badness 2452) in paragraph at lines 5302--5303
+[]\OT1/ptm/m/n/12 Chapel Hill Vol-ume Ren-der-ing Test Data Set, Vol-ume II, Dr
+. Ju-lian Rosen-man,
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 5302--5303
+\OT1/ptm/m/n/12 North Car-olina Memo-rial Hos-pi-tal, Uni-ver-sity of North Car
+-olina, retieved from
+ []
+
+[251] [252]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5356--5358
+[]\OT1/ptm/m/n/12 The Vol-ume Li-brary, ``On-line li-brary for Vol-ume vi-su-al
+-iza-tion datasets,
+ []
+
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no ¥ in font ptmr7t!
+[253] [254]
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no ° in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+ [255]
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+ [256]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5508.
+ [257]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 5508.
+ (DissertationDraft.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 5508.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 5508.
+
+Package rerunfilecheck Info: File `DissertationDraft.out' has not changed.
+(rerunfilecheck)             Checksum: 513AEA2417D871BCAE3EA73D7FBADAD5;7672.
+ ) 
+Here is how much of TeX's memory you used:
+ 10337 strings out of 493334
+ 177898 string characters out of 3139236
+ 342956 words of memory out of 3000000
+ 12673 multiletter control sequences out of 15000+200000
+ 30284 words of font info for 77 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,14n,46p,2285b,444s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on DissertationDraft.pdf (291 pages, 51439451 bytes).
+PDF statistics:
+ 75928 PDF objects out of 79402 (max. 8388607)
+ 856 named destinations out of 1000 (max. 500000)
+ 1804 words of extra memory for PDF output out of 10000 (max. 10000000)
+
